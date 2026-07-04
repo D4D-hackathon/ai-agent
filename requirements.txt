@@ -1,0 +1,5 @@
+# 지상전 전술 결심 워게임 — 시뮬레이션 엔진 의존성 (Python 3.9+)
+# 백엔드/프론트엔드는 팀원이 구현 → 여기엔 서버(fastapi/uvicorn) 불필요.
+pypdf>=4.0,<6.0        # 교범 PDF → 페이지 텍스트 인덱스 (build_index.py)
+rank-bm25>=0.2.2,<1.0  # 교범 RAG 검색 (retrieval.py)
+requests>=2.28,<3.0    # 팀원 백엔드 HTTP 연동 (client.py)
