@@ -162,9 +162,9 @@ def run_turn(payload: Dict[str, Any], terrain_signals: Optional[Dict] = None,
     반환에 gate 와 resolution 을 모두 담아, 교육형(게이트 먼저)·원샷형 모두 대응 가능.
     """
     st, missing = normalize(payload, persist=persist)
-    if missing:
-        return {"ok": False, "missing": missing,
-                "message": "필수 항목 누락 — 백엔드/사용자에게 되물어야 함(값 창작 금지)."}
+    if missing or st is None:
+        return {"ok": False, "missing": missing or ["모든 병력 0"],
+                "message": "필수 항목 누락 또는 불가능한 입력 — 백엔드/사용자에게 재확인 필요."}
 
     tc = attach_terrain(st, terrain_signals, persist=persist)
     sit = situation(st)
