@@ -1,7 +1,13 @@
 """client.py — 팀원 백엔드 ↔ 워게임 엔진 연동 어댑터.
 
-백엔드/프론트엔드는 팀원이 구현했고, 이 파일은 그 백엔드에서 시나리오를 **받아와** 엔진을
-돌리고 결과를 **돌려주는** 얇은 어댑터다. 백엔드 API 규격이 확정되면 아래 3곳만 고치면 된다:
+⚠️ 실제 연동은 이미 구축됨(backend 브리지 방식):
+    CloudTAK 프론트 → POST /wargame/resolve (~/backend, FastAPI :8000)
+        → ~/backend/wargame_bridge.py 가 프론트 payload(units/attacks)를 엔진 스키마로 변환
+        → 이 저장소 엔진(run_turn.py)을 자체 venv 서브프로세스로 실행 → 판정 결과 반환.
+    프론트 payload → 엔진 스키마 변환의 **정본**은 ~/backend/wargame_bridge.py 다.
+
+이 client.py 는 "에이전트가 백엔드에서 시나리오를 pull 해 실행"하는 대안 흐름용 **템플릿**이며,
+현재 파이프라인엔 불필요하다. pull 방식을 쓰려면 아래 3곳을 실제 규격에 맞춰라:
   (1) BASE_URL / 엔드포인트 경로
   (2) adapt_scenario()   : 백엔드 응답 JSON → 엔진 입력 스키마
   (3) adapt_result()     : 엔진 출력 → 백엔드가 기대하는 결과 JSON
@@ -20,9 +26,11 @@ import requests
 
 from scripts import engine
 
-BASE_URL = os.environ.get("WARGAME_BACKEND_URL", "http://localhost:9000")  # TODO: 팀원 백엔드 URL
-FETCH_PATH = "/api/scenario/next"      # TODO: 실제 경로로 교체
-SUBMIT_PATH = "/api/scenario/result"   # TODO: 실제 경로로 교체
+# 실제 백엔드는 ~/backend FastAPI(:8000). 현재 통합 경로는 POST /wargame/resolve 이며
+# 프론트 payload→엔진 변환은 backend/wargame_bridge.py 가 담당한다(아래 pull 경로는 미사용 템플릿).
+BASE_URL = os.environ.get("WARGAME_BACKEND_URL", "http://localhost:8000")
+FETCH_PATH = "/api/scenario/next"      # (미구현) pull 방식 쓸 때 실제 경로로 교체
+SUBMIT_PATH = "/api/scenario/result"   # (미구현) pull 방식 쓸 때 실제 경로로 교체
 
 
 # ── (2) 백엔드 응답 → 엔진 입력 스키마 매핑 (규격 확정 시 여기만 수정) ──
