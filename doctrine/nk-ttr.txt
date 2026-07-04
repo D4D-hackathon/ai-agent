@@ -1,0 +1,2601 @@
+
+
+===== [NK-TTR p.1] =====
+OCT 
+2015 
+ 
+Version 1.1 
+ 
+ 
+ 
+TRADOC G-2 ACE Threats Integration 
+ 
+ 
+DISTRIBUTION RESTRICTION: 
+Approved for public release; distribution is unlimited. 
+ 
+ 
+TThhrreeaatt TTaaccttiiccss RReeppoorrtt:: 
+NNoorrtthh KKoorreeaa
+
+===== [NK-TTR p.2] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+1 UNCLASSIFIED 
+ 
+IInnttrroodduuccttiioonn 
+The Korean peninsula is a location of strategic interest for the US in the Pacific Command (PACOM) , and 
+many observers note that North Korea is an unpredictable and potentially volatile actor . According to 
+the Department of Defense in its report to Congress and the intelligence community, the DPRK “remains 
+one of the United States’ most critical security challenges for many reasons. These include North Korea’s 
+willingness to undertake provocative and destabil izing behavior, including attacks on the Republic of 
+Korea (ROK), its pursuit of nuclear weapons and long -range ballistic missiles, and its willingness to 
+proliferate weapons in contravention of United Nations Security Council Resolutions.” 1 Some of the 
+latest evidence of irrational behavior is the elevation of Kim Jong Un ’s 26 -year old sister to a high 
+governmental post late in 2014, the computer hacking of the Sony Corporation supposedly by North 
+Korea during late 2014 over the possible release of a film that mocked Kim Jong Un, and the April 2015 
+execution of a defense chief for allegedly nodding off during a meeting . Over the past 50 years, North 
+Korea has sporadically conducted operations directed against its enemies, especially South Korea. These 
+actions included attacks on South Korean naval vessels, the capturing of a US ship and holding American 
+hostages for 11 months, the hijacking of a South Korean airline jet, electronic warfare against South 
+Korean signals including global positioning satellites (GPS), and assassinations or attempted 
+assassinations on South Korean officials including the ROK president . The attempted 1968 Blue House 
+Raid by North Korean elite military personnel resulted in the death or capture of all 31 infiltrators 
+involved in the assassination attempt as well as the death of 71 personnel, including three Americans, 
+and the injury of 66 others as the North Korean SPF personnel attempted to escape back to DPRK 
+territory.2 
+The purpose of this North Korean Threat Tactics Report (TTR) is to explain to the Army training 
+community how North Korea fights including its doctrine, force structure, weapons and equipment, and 
+the warfighting functions. A TTR also identifies where the conditions specific to the actor are present in 
+Decisive Action Training Environment (DATE) and other training materials so that these conditions can 
+easily be implemented across all training venues. 
+EExxeeccuuttiivvee SSuummmmaarryy 
+ 
+ North Korea is an oligarchy with Kim Jong Un as its supreme leader. 
+ The DPRK is a militaristic society with about 1.2 million active duty personnel in uniform out of a 
+population of 24 million with another 7.7 million in the reserve forces. 
+ All military personnel serve under the umbrella of the Korean People’s Army (KPA); the Korean 
+People’s Air Force (KPAF) and Korean People’s Navy (KPN) primarily support the KPA ground 
+forces. 
+ The KPAF focuses on homeland defense and close air support to the KPA. 
+ The KPN’s primary mission is to protect the North Korean coastline and support the KPA special 
+purpose forces (SPF) in mission execution.
+
+===== [NK-TTR p.3] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+2 UNCLASSIFIED 
+ 
+This (U) Threat Tactics Report (TTR) was produced in accordance with (U) Intelligence Community Directive Number 203: Analytical 
+Standards (Effective: Jan 2015). This TTR was coordinated with: 
+ National Ground Intelligence Center (NGIC)—Carl E. Pales 
+ Foreign Military Studies Office (FMSO)—Tom Wilhelm 
+ Asymmetrical Warfare Group (AWG)—CPT John M. Solomon, SFC Mike Goularte, and Steven D. Durrant 
+ Eighth United States Army (EUSA) G2—COL Dwight L. Duquesnay 
+ EUSA Information Operations—COL Paul T. Brooks 
+ United States Forces-Korea (USFK)—COL Maxwell S. Thibodeaux 
+ United Nations Command, Military Armistice Commission (UNCMAC)—COL James M. Minnich 
+Comments and feedback are welcome. 
+ 
+Jon S. Cleaves 
+Director, TRADOC G-2 ACE Threats Integration 
+ 
+ Much of the equipment in all military branches is old and obsolete, but the KPA has 
+concentrated its modernization efforts on missile technology that may provide the means to 
+successfully launch a nuclear warhead. 
+ North Korea possesses a nuclear weapon and is modernizing its missile fleet in order to increase 
+the attack range for its nuclear arsenal. 
+ North Korea possesses both chemical and biological weapons. 
+ The KPA practices both passive and active camouflage to hide its units, headquarters, and other 
+important resources from the air. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cover photo: Photo of a missile by Stefan Krasowski at a Victory Day parade in Pyongyang o n 26 July 
+2013. Picture listed on Bing as free to modify, share, and use commercially.
+
+===== [NK-TTR p.4] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+3 UNCLASSIFIED 
+ 
+Section 1: Introduction to North Korea 
+The US military has been learning about the Democratic Peop le’s Republic of Korea (DPRK), commonly 
+referred to as North Korea, since 1950 when the US, in conjunction with the UN, went to war against 
+Kim Il Sung’s military forces. The DPRK is a country in Asia ru n by an oligarchy led by Kim Jong Un. Most 
+DPRK military and civilian leaders consist of second and third generation leader s who are familial or 
+close friends of the DPRK’s founder, Kim Il Sung; his son, Kim Jong Il; or grandson, Kim Jong Un. The Kim 
+family has ruled North Korea since the end of World War II. Historically, the Korean peninsula has found 
+itself ruled by outside forces for significant periods of time to include China and the latest, Japan, which 
+occupied the entire Korean peninsula at the conclusion of the 1905 Russo -Japanese War until Japan’s 
+surrender to the allied powers in August 1945.3 
+In June 1950, North Korea invaded its southern neighbor in an attempt to unify the peninsula under Kim 
+Il Sung. With the intervention of the UN, after the Soviet Union boycotted a UN Security Council 
+meeting, the international coalition led by the US pushed the North Korean mi litary back across the pre-
+1950 boundary between the two countries in September 1950. American General Douglas MacArthur 
+then drove the UN forces all the way to the Yalu River where China, feeling threatened by anti -
+communist forces, interceded on behalf o f North Korea with organized Chinese forces. The Chinese -led 
+counterattacks pushed the American military and its allies back to the 38th parallel, the original dividing 
+line between the two Koreas. Over the next two years, a stalemate ensued with only mino r changes of 
+territory between the warring sides. In late July 1953, the military commanders of the Korean People’s 
+Army, the Chinese People’s Volunteers, and the United Nations Command (UNC) signed an armistice 
+that ended the fighting and created a demili tarized zone (DMZ) 2,000 meters wide on either side of the 
+then current unit disposition or what is known as the military demarcation line (MDL). Over 60 years 
+after the armistice or ceasefire, the warring sides have yet to sign a formal peace treaty , and the MDL 
+and the 4,000 meter wide DMZ still exist s from the peninsula’s east coast to the west coast. The DPRK, 
+however, still seeks its ultimate goal, which is to unify all of Korea under its control. With a population of 
+only 24 million people, over five percent or 1.2 million personnel serve on active military service in the 
+DPRK. Another 7.7 million North Koreans serve in the reserve forces. Besides military operations, the 
+DPRK government often uses its uniformed personnel for public service projects or to harvest crops. 
+The presence of the US military in South Korea deters the DPRK from crossing the border to reunite the 
+two Koreas by force. Since the armistice was signed, North Korea has broken it many times with 
+incursions into the DMZ and South Korea by land, sea, air, and even underground by tunnels. Today, the 
+DPRK face s off against the Combined Forces of the R OK and the United States with a conventional 
+regular force backed with a nuclear deterrent. North Korea also emphasizes SPF units that primarily use 
+irregular tactics. The KPN uses a combination of tactics based on old Soviet doctrine, Chinese 
+developments, and/or lessons learned by the North Koreans during the 1950 –53 Korean War as well as 
+the US’s most recent actions in Afghanistan, Iraq, and other locations around the world. North Korea, 
+however, has no issues with initiating provocative actions against South Korea, Japan, or the US ’s in 
+defiance of the armistice’s terms. These actions, however comedic they are seen as by outsiders, are 
+often used prior to international meetings in an attempt to obtain concessions from the other side of 
+the negotiating table.4
+
+===== [NK-TTR p.5] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+4 UNCLASSIFIED 
+ 
+While the military hardware own ed by North Korea is vast, much of it is outdated. The DPRK military 
+loathes to abandon any hardware as evidenced by the retention of the T-34/85, a World War II-era tank, 
+in some of its armor units. The age and variety of equipment from the former Soviet Union, Russia, or 
+China and its own internally produced equipment generate major logistical issues for t he KPA to 
+effectively keep the assortment of weapons systems fully functional. 
+Strategy and Goals 
+The DPRK espouses three prima ry goals with additional second -tier objectives that support its principal 
+aims. From Kim Il Sung through Kim Jong Il to Kim Jon g Un, North Korea’s overarching intention is the 
+unification of all of Korea under control of the DPRK government. While this ambition is probably not 
+obtainable in the near future —as long as American forces remain on the peninsula —a unified Korea 
+under the Kim family’s control remains the DPRK’s ultimate objective. North Korea’s second goal is to 
+remain an independent state free of outside interference, especially from the Western powers. North 
+Korea’s possession of a nuclear arsenal and its pursuit of missile technology is an attempt to ensure that 
+external powers do not interfere with the DPRK’s internal affairs for fear of a nuclear reprisal. North 
+Korea’s third goal is for Kim Jong Un and his family to maintain its position of authority in the regime 
+through the ideological control of the country’s population. The Kim family and its supporters will likely 
+pursue any strategy necessary to remain firmly in power in the DPRK.5 
+North Korea’s strategy is focused on the control of the DPRK government by the Ki m family in pursuit of 
+the long-term goal of the reunification of the entire Korean peninsula under the same government. The 
+large military is not only used as a threat to North Korea’s neighbors, but to maintain control of its own 
+citizens. The DPRK uses limited military provocations to obtain diplomatic concessions at the negotiating 
+table with South Korea, Japan, the US, and other countries. North Korea uses threats of possible war to 
+obtain not only diplomatic concessions, but to obtain economic aid for its people. The North Korean 
+government knows that the Western powers and South Korea do not want another active war on the 
+peninsula so the DPRK’s threats often lead to success at the negotiating table. The North Korean nuclear 
+arsenal and fear by other countries that the DPRK will initiate a nuclear attack often serves as the trump 
+card that forces the DPRK’s enemies to acquiesce to the Kim regime’s demands.6 
+While North Korea’s leaders may seem cartoonish at times to the outside world, the Kim family is 
+treated reverently and seen as almost godlike in its almost non-religious country. Kim Il Sung developed 
+a personality cult around himself during his long period in power. His son, Kim Jong Il, continued to 
+cultivate the myth of the Kim family during his time as the DPRK’s supreme leader. The North Korean 
+people treat the current ruler, Kim Jong Un, with almost the same awe the DPRK citizens held the 
+previous two rulers or are too afraid not to do so. The Kim family cult status is a major component of the 
+glue that holds the DPRK together.7 
+Key Leaders 
+While the DPRK professes to still be a communist country where the people are in charge, North Korea is 
+actually an oligarchy where a small number of people control the country. The DPRK supreme leader is 
+currently Kim Jong Un —the g randson of the original founder of North Korea , Kim Il Sung —who took 
+power in December 2011 upon the death of his father, Kim Jong Il. Kim Jong Un is not the only third 
+generation leader in the DPRK as many of the current government al officials’ parents or grandparents
+
+===== [NK-TTR p.6] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+5 UNCLASSIFIED 
+ 
+also loyally served the Kim family. In his mid-30s, Kim Jong Un has been busy over the last three years 
+easing out an older generation of officials that owed their allegiance to Kim Jong Il or Kim Il Sung and 
+replacing the old guard with younger supporters of himself. To take ultimate control of the DPRK, Kim 
+Jong Un perpetuated the arrest, trial, conviction, and execution of his uncle, Jang Song Taek, then the 
+second most powerful person in North Korea.8 
+Members of the government wield their power through the station a bureaucrat holds in the Korean 
+Workers’ Party (KWP), the Supreme People’s Assembly (SPA), the Korean People’s Army (KPA), the 
+National Defense Committee (NDC), or a cabinet post. The most powerful North K orean leaders often 
+hold more than one position in their portfolio. Military personnel will also hold civilian positions and 
+bureaucrats that rise through the civil service ranks may eventually receive a military title, for 
+appearance purposes, upon reachi ng a certain senior level in governmental service or prior to the 
+assumption of a more military-related job. The NDC is the most important group in the country with Kim 
+Jong Un as First Chairman, three vice -chairman positions, and six additional members. T he vice -
+chairmen include Vice Marshal Hwang Pyong So, currently considered the second-most powerful person 
+in the DPRK; General O Kuk Ryol, a second -generation bureaucrat whose father fought with Kim Il Sung; 
+and Vice Marshal Ri Yong Mu, the husband of one of Kim Jong Il’s aunts. The other NDC members 
+include Cho Chun Ryong, a civilian with an economics background ; General Choe Pu Il, Minister of the 
+People’s Security; General Hyon Yong Chol (executed in late April 2015, but only announced on 13 May 
+2015), Minister of the People’s Armed Forces; General Kim Won Hong, Minister of State Security; 
+Colonel General Pak To Chun, a civilian with an industrial background and recently awarded a military 
+rank; and General Ri Pyong Chol, a relatively unknown officer. Hw ang Pyong So and several other North 
+Korean leaders made an unexpected and last -minute visit to South Korea in early October 2014 when 
+Kim Jong Un was unseen for several weeks. This led to some speculation on Kim Jong Un ’s status, but 
+the North Korean ruler emerged several weeks later, still in charge, with the excuse for his absence from 
+the public eye that he was recovering from foot surgery. See the March 2015 Red Diamond article on 
+North Korean Leadership for additional details on most of these DPRK leaders.9 
+Key Alliances 
+While North Korea practices an ideology of independence called juche, the DPRK does possess a few, but 
+important, allies. Kim Il Sung began juche in 1972 and this nationa l ethos places an emphasis on self -
+reliance, independence, resourcefulness, a display of one’s strength, and self-defense, with the 
+responsibility to internally solve problems without outside assistance. Despite the bravado of self -
+reliance, North Korea’s most important ally and major benefactor is China. About 63% of DPRK exports 
+go to China while the DPRK receives 73% of its imports from its northern neighbor. China usually 
+opposes any economic sanctions that other countries may try to enact on the DPRK f or its military and 
+nuclear provocations. North Korea serves as a buffer state between the economically capitalistic and 
+democratic South Korea and the communist People’s Republic of China (PRC). China has ruled over the 
+Korean peninsula at various times d uring the past 4,000 years and this somewhat disharmonious 
+relationship between China and the peninsula continues. Both current regimes share a common 
+foundation as the PRC and DPRK both arose by revolutionary means based on the Marxist model and 
+both countries profess to still somewhat follow these communist teachings. The historical ties between 
+North Korea and China continue to bind the two countries together and China’s fear of a unified ,
+
+===== [NK-TTR p.7] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+6 UNCLASSIFIED 
+ 
+economically powerful Kore an peninsula under a democratic -style g overnment is probably enough 
+motivation to continue to support the status quo on the Korean peninsula.10 
+The second -most important ally for North Korea is Russia. While the closeness between the two 
+countries is not the same as it was between North Korea an d the Soviet Union, there are still some 
+residual feelings based on the North Koreans’ long -term relationship with the Russian leadership. In the 
+early 1990s, the relationship suffered under then -Russian president Boris Yeltsin before rebounding 
+later in t he decade. During the Cold War, North Korea sent its military officers to the USSR to attend 
+officer, technical, or aviation schools. Much of the North Korean conventional weapons and vehicles 
+were produced in the USSR or former Soviet bloc countries, but are now produced in Russian or Eastern 
+European factories. Due to the DPRK’s inability to pay its financial debt to Russia, North Korea provides 
+up to 10,000 construction workers and loggers to work in eastern Russia. For the near future, Russia will 
+likely continue to tenuously support North Korea.11 
+North Korea has developed a relationship with a number of countries due to the export of weapons, 
+especially ballistic missiles, and missile technology to states and actors willing to evade the various 
+sanctions placed on the DPRK by the international community. These countries include Egypt, Iran, 
+Libya, Pakistan, Syria, the United Arab Emirates, and Yemen. A North Korean ship, sailing from Cuba, was 
+caught trying to cross the Panama Canal with MiG-21 jets and spare airplane parts. UN inspectors seized 
+the weapons, but there has been no final disposition of the case. It is likely that North Korea will 
+continue to engage in legal and illegal arms trades in order to gain much-needed hard currency.12 
+Organizational Size and Structure 
+General Information 
+While the DPRK operates both a navy and air force, all military forces technically fall under control of the 
+Korean People’s Army. North Korea is one of the most militarized countries in the world with 1,193,000 
+active duty and 7.7 million reserve personnel. The DPRK spends between 15.9% and 22% of its GDP on 
+its military and about 25% of all North Koreans serve in some military capacity. Of the active duty 
+personnel, approximately 1,020,000 serve in the army while 110 ,000 work for the air force, and 60,000 
+support the navy.13 
+Army 
+The army comprises the largest portion of the North Korean military with 85% of all personnel serving in 
+the ground forces. The army is responsible for all KPA ground units, the Special Purpos e Forces (SPF), 
+and low -level air defense missions. The KPA positions about 70% of all ground forces along the 
+demilitarized zone (DMZ) between North and South Korea. Much of the KPA artillery is located in 
+hardened positions located forward along the bord er in order to maximize its weapons systems’ ranges 
+without needing to reposition to fire its opening salvos. While useful for offensive operations, the 
+closeness of the artillery to the DMZ may make it vulnerable during defensive operations.14 
+The KPA features a combination of armor, mechanized, and basic infantry units. Besides the major units 
+listed on the chart below, the KPA also fields seven tank regiments and five to eight independent river 
+crossing regiments. The rocket brigades operate FROG [free rocket over ground ], KN-02, KN-08, KN-09
+
+===== [NK-TTR p.8] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+7 UNCLASSIFIED 
+ 
+No Dong, or Musudan missiles. The KPA specializes its units for the tasks they are expected to complete 
+if and when the war on the peninsula resumes between North and South Korea.15 
+Table 1. KPA Units16 
+Corps/Divisions Brigades 
+Mechanized Corps 2 Armor Brigade 11-15 
+Infantry Corps 9 Infantry/Motorized Infantry Brigade 68 
+Capitol Defense Corps 1 Mechanized/Mechanized River Crossing Brigade 14-20 
+Armor Division 1 Light Infantry Brigade 12 
+Mechanized Division 4 Airborne Brigade 3 
+Infantry Division 27 Sniper Brigade 7 
+Light Infantry Division 7 Reconnaissance Brigade 3 
+Artillery Division 1 Coastal Security/Border Security Brigade 10 
+Reserve Infantry Division 40 Artillery, Multiple Rocket Launcher, Heavy Mortar 21-26 
+Reserve Military Training Unit 10 Engineer River Crossing Brigade 1 
+ Rocket Brigade 4-7 
+The KPA also fields a large SPF of approximately 200,000 personnel that consists of eight Bureau of 
+Reconnaissance Special Forces (SF) battalions; a reconnaissance gr oup with 17 additional battalions; a 
+light infantry group with nine light infantry brigades and six sniper brigades; an air maneuver group with 
+three airborne brigades, one airborne battalion, and two sniper brigades; and an amphibious group with 
+two sniper brigades. Despite the KPA’s large size, much of its training is conducted without vehicles due 
+to the lack of fuel and the high cost to properly maintain vehicles.17 
+Equipment issues as well as the lack of spare parts and fuel hinder the ability of the K PA, especially the 
+armor and mechanized units, to conduct a large number of realistic training exercises. Units that would 
+normally move in vehicles must conduct its training as dismounted forces. Further reducing training 
+time is the requirement that cert ain KPA units must send their soldiers to the countryside to help the 
+farmers bring in the rice crop at harvest time.18 
+Most of the KPA reserve consists of ground forces personnel. The army reserve consists of about 
+940,000 Red Youth Guard (RYG) participant s, 620,000 Reserve Military Training Unit (RMTU) members, 
+5.7 million Workers’ Peasants’ Red Guard (WPRG) members, and 420,000 members of other 
+paramilitary groups. The RYG began in 1970 and , similar to the Junior Reserve Officer Training Corps 
+program in the US, the participants consist of male and female students from the age of 14 to 17. The 
+RYG conducts 450 hours of classroom training and seven days of military training each semester. The 
+RYG seeks to locate potential anti-government militants or counte r-revolutionaries, and can even be 
+called upon to defend the country at a time of war. The ages of RMTU members range from 17 to 45 for 
+males and 17 to 30 for females. The RMTU inducts those 17 -year olds who did not join the regular army 
+or who have completed their active -duty obligation. The Ministry of People’s Armed Forces (MPAF) 
+controls the 37 RMTU infantry divisions , which conduct 30 days of mobilization training and 10 days of 
+self-defense training annually. When males reach the age of 46, they are t ransferred to the WPRG until 
+discharged at the age of 60. Begun in January 1959, the WPRG provides basic military training to the 
+North Korean people and is responsible for internal security, rear area defense, gue rrilla warfare, and 
+support to the active duty KPA. The WPRG’s structure mirrors the military with regiments, battalions, 
+and companies based on the available population. Company -size WPRG units can be found in the rural 
+areas while the larger units are found in the more urban areas. The WPRG cond ucts 15 days of 
+mobilization and 15 days of self -defense training annually. The MPAF is responsible for other
+
+===== [NK-TTR p.9] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+8 UNCLASSIFIED 
+ 
+paramilitary training units that consist primarily of former soldiers. Units from squad to division are 
+based on the unit’s location, its associat ion with a factory or business, or a university. About 35 -40% of 
+the members come under control of one of the 36 MPAF Paramilitary Training Unit divisions. These units 
+provide a trained reserve for the KPA and can be incorporated into the KPA in time of wa r, serve as 
+fillers or replacements for KPA units, deploy as independent units directly subordinate to the MPAF, or 
+provide security for large government facilities, rear area defense, or security missions. Most of the 
+units operate as infantry, but there may be some specialized units such as anti -aircraft, artillery, rear 
+service, or possibly even armored units.19 
+Air Force 
+The KPAF’s primary mission is to defend its homeland from the air with secondary missions to provide 
+tactical air support to the army a nd navy, transportation, logistical support, and SPF insertion/ 
+extraction. To accomplish its mission, the KPAF fields three air combat divisions, two air transportation 
+divisions, and a single air training division. Subordinate combat units include eighteen fighter regiments, 
+three light bomber regiments, one fighter/ground attack regiment, one ground attack regiment, and one 
+attack helicopter regiment. In addition, the KPAF operates a number of transportation regiments, 
+helicopter regiments, training regiments, and nineteen surface-to-air missile (SAM) brigades.20 
+There are approximately 110,000 personnel in the KPAF with approximately fifty percent of the aviation 
+assets located within 100 km of the DMZ. Many of the forward deployed air force regiments ope rate 
+from underground airfields , or as a minimum, the airplanes are stored in underground bunkers. The 
+KPAF can convert several stretches of road in North Korea to auxiliary airstrips. The SAM brigades 
+operate in three sectors —northeast, northwest, and sou th—with most of the SA -2 and SA -3 battalions 
+in position along the coasts with the newer SA-5 battalions near Pyongyang or the DMZ. The KPAF 
+operates over 50 ground -based early warning radar systems that provide overlapping coverage 
+throughout the country, but with extra emphasis on the west coast and the DMZ. There are fewer radar 
+systems, however, along the North Korea /China border in the north. The mountainous terrain of North 
+Korea causes problems with radar and is the reason for the large number of ove rlapping systems 
+needed to prevent dead space in the KPAF radar coverage.21 
+The 84th Air Division (Training) conducts all KPAF training. Both pilots and ground personnel attend the 
+same ground school training. When pilots head off to learn how to fly, the g round personnel receive 
+their training in an aviation specialty. It takes about four years of instruction for a KPAF pilot to learn 
+how to fly. The pilot s receive about 70 hours of primary flight instruction training, mostly in a CJ -6 
+aircraft, before they are assigned to a unit. Fewer than five years ago, pilots flew only 20 –25 times per 
+year for a total of 15–25 flight hours annually due to the cost, the shortage of aviation fuel, and the lack 
+of spare parts. Each trainin g flight usually lasted only 30 –45 minutes and focused mainly on taking off 
+and landing the aircraft safely. There were few resources available to devote to actual air combat 
+maneuver training or close air support training. Some units, usually those that fly the MiG -29, the MiG-
+23, or the Su-25 may have received more flight time than the others. Since Kim Jong Un took power over 
+three years ago , however, the number of hours each pilot flies increased from 25 to approximately 50 
+hours annually. While the doubling of flight hours in the last three years is impressive, the KPAF pilots 
+still do not receive the flight hours to become truly proficient in their aviator tasks. KPAF pilots are likely 
+sub-standard when compared to most Western military pilots who receive many more flight hours than 
+their North Korean counterparts.22
+
+===== [NK-TTR p.10] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+9 UNCLASSIFIED 
+ 
+Navy 
+The KPN is essentially a brown water force, with little capability to operate more than 50 miles off the 
+North Korean coastline. Even with approximately 60,000 personnel, the KPN fields no aviation units as 
+almost all a ircraft come under KPAF control . The purpose of the navy is to primarily support SPF 
+missions and to conduct amphibious assaults. To accomplish its clandestine missions, the KPN deploys 
+40 SANG -O 37 -meter Class special operations midget submarines, 33 YUGO 20-meter Class special 
+operations midget submarines, and ten YONO 29 -meter submarines. The KPN also can deploy 20 
+Romeo-class attack submarines against surface ships. To support landing operations of ground troops, 
+the KPN operates four HANTAE-class medium landing ships, four HANCHON-class utility landing craft, 60 
+NAMPO-class personnel landing craft, and 40 KONG BANG-series personnel landing craft. Between 10 to 
+20 percent of all KPN vessels are stored in dry dock, on land, or in tunnels , and many of the KPN ships 
+would need significant repairs to make them combat ready. The major exceptions to the poor readiness 
+rates are the submarines and small combatant ships that are often used to support the KPA’s SPF 
+units.23 
+The KPN is also responsible for protecti on of its shores through the use of coastal defense guns and 
+surface-to-surface missiles. The KPN fields a large, but unknown number of coastal artillery ranging from 
+122-mm to 152-mm guns as well as missiles including the SSC-2B Samlet, HY-2, and SS-N-2 Styx. Most of 
+these guns are in harden ed sites and would be very difficult to reposition during combat operations. 
+One of the KPA’s newest missiles, the KN -08, is a mobile launcher with a range of 9,650 km. This 
+distance places California within the outer fringes of the KN-08’s maximum range.24 
+The KPN is known to conduct aggressive patrolling and has been known to accost fishermen from other 
+countries outside of the internationally recognized territorial waters and trespass south of the Northern 
+Limit Line (NLL), the boundary on the west coast that is supposed to serve as the demarcation between 
+the two Koreas. Notable naval incidents between North Korea and South Korean occurred in 1999, 2002, 
+2009, 2010, 2011, and 2012 including one North Korean vessel sail ing 3.7 km south of the NLL where it 
+remained for two hours in South Korean waters. The KPN was also likely responsible for one of its 
+submarines sinking the South Korean corvette , Cheonan, in March 2010, even though the DPRK denied 
+any culpability in the incident.25 
+Strengths 
+While analysts may debate the North Korean military’s capabilities, the KPA does possess some 
+strengths. First is the sheer size of the active and reserve military. With over a million active duty 
+personnel and over seven million more in reserve, the DPRK can mobilize higher percentage of its 
+population for military service than almost any other country in the world. Second is the idea that the 
+military comes first. Any resources that the country possesses goes to the military before i t is provided 
+to the North Korean people. In a country where starvation is at times rampant, the DPRK military 
+personnel receive their larger rations before most civilians. During a ny war, the KPA would only take 
+even more of any available resources in ord er for the DPRK regime to survive. Third, both the North 
+Korean military personnel and civilians are used to hardships. Due to the tough life most North Korean 
+people already endure, the ravages of war would not have the same effect that military conflict would 
+cause most other countries. Lastly, the DPRK possess es nuclear weapons as well as chemical and 
+offensive biological weapons. The fear of a CBRN (chemical, biological, radiological, or nuclear) attack,
+
+===== [NK-TTR p.11] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+10 UNCLASSIFIED 
+ 
+especially nuclear, may cause Western inaction as North Korea’s enemies debate whether to act or not 
+due the high possibility of the DPRK’s threats of weapon of mass destruction (WMD) reprisals.26 
+Weaknesses 
+Although the North Korean military may featur e some positive attributes as a fighting force, the K PA 
+also suffers from many weaknesses as well. Much of the military’s equipment is old and obsolete. The 
+North Korean military consciously refuses to rid itself of any equipment and still operate tanks tha t date 
+back to World War II. This wide range of mili tary hardware from many generations of warfare also 
+generates logistical issues. The KPA’s supply personnel must not only find the spare parts for a large 
+variety of equipment, the KPA maintenance personnel must be well -versed in the repair of a great 
+assortment of vehicles and weapons. In addition, the DPRK lacks the logistical capability to support the 
+KPA beyond a few months. Due to the shortage of fuel and the cost to operate vehicles for a cash -
+strapped country, many of the KPA soldiers find themselves involved in public works projects or helping 
+farmers bring in their rice crops. Any time spent in non-military support is less time that the KPA soldiers 
+can spend training for combat. Even the mechanized and armor forces, due to resource restraints, spend 
+much of their training time doing light infantry training instead of mounted operations. While KPA 
+soldiers may be well trained in individual skills or small unit tactics, the amount of time spent on larger 
+exercises pale s in comparison to most Western m ilitaries. Without adequate time and resources to 
+practice large scale military operations, the KPA will always face a steep learning curve when the KPA is 
+forced to perform them in actual combat for the first time.27 
+Current Locations 
+While North Korean mi litary units are scattered throughou t the country, approximately 70 percent of 
+the ground forces are located between Pyongyang and the DMZ. The KPA ground forces are often 
+located in hardened positions and their artillery can easily reach South Korea with nearly every artillery 
+piece situated so that two -thirds of the weapon’s range covers South Korea’s side of the border . The 
+South Korean capital city, Seoul, is within range of some of some 250 of DPRK’s longest-ranging artillery 
+and missile systems. The K PAF is also focused on South Korea with many of its runways in the southern 
+third of the country. The KPN operates off the east and west coast of the country as North Korea 
+possesses few navigable rivers. There are very few military units located along the DPRK’s northern 
+border with China. See the map in the military organization section for locations of major bases of the 
+army, air force, and navy as well as most runways throughout North Korea.28
+
+===== [NK-TTR p.12] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+11 UNCLASSIFIED 
+ 
+ 
+Figure 1. North Korean military installations. Numbers correspond with the map numbers under 
+Section 4, Military Organizations, below. Locations on map are approximate.
+
+===== [NK-TTR p.13] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+12 UNCLASSIFIED 
+ 
+ 
+Section 2: KPA Tactics and Techniques 
+The DPRK believes that the average KPA soldier is physically, 
+mentally, militarily, and politically bette r trained and 
+prepared for war than any individual soldier the North 
+Korean will meet on the battlefield —American, South 
+Korean, Japanese, or other Western army. Due to the 
+materiel weakness that the DPRK will face in any war on the 
+Korean peninsula, the K PA teaches its soldiers that the next 
+war will not be decided by technology or weapons, but by 
+the revolutionary spirit as the soldiers fight for the liberation 
+of their comrades. The KPA soldiers are also indoctrinated 
+with the idea that one of them is more than a match for 100 
+of the enemy. The KPA trains every soldier to serve one level 
+up from his current position. With this type of mental 
+indoctrination, it is likely that many KPA military personnel 
+would rather fight to the death than surrender.29 
+ 
+Figure 2. Building blocks of KPA tactical doctrine. Adapted from COL James M. Minnich from his 
+book, The North Korean People’s Army: Origins and Current Tactics, 2005, p 66. Modified by 
+TRADOC G-2 ACE Threats, 17 June 2015. 
+Throughout this TTR, North 
+Korean doctrinal terms, when 
+known, will be used instead of the 
+terms found in TC 7 -100.2, 
+Opposing Force (OPFOR) Tactics. 
+Where there is collation, the TC 7 -
+100.2 OPFOR term will be inserted 
+in parenthesis to demonstrate the 
+connectivity between real-world 
+actors to the composite OPFOR in 
+the TC.
+
+===== [NK-TTR p.14] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+13 UNCLASSIFIED 
+ 
+KPA Tactical Doctrine Building Blocks 
+The KPA tactical doctrine is based on a series of six “building blocks” as demonstrated in Figure 2. The 
+Military Training Bureau serves as the KPA’s military think tank and has studied conflict from World War 
+II to the present. With that knowledge, th e KPA has developed a military ideology based on its 
+experiences from 1950-53 fighting the US, old Soviet theory, and Chinese light infantry tactics modified 
+by the most recent US experience in numerous locations around the world over the past three decade s. 
+Due to the U nited States’ ability to overwhelm almost any enemy with technology and firepower, the 
+KPA emphasizes asymmetric warfare in conjunction with large numbers of SPF units. Even with the 
+emphasis on asymmetric warfare, the KPA plans the use of l arge amounts of artillery including multiple 
+rocket launchers in lieu of air support, heavy reliance on anti -tank guns, and anti -armor support by a 
+variety of first and second generation wire -guided anti -tank missiles. The KPA will attempt to 
+concentrate and coordinate the firing of large numbers of older weapons systems in order to make up 
+for a shortage of the latest technologically advanced equipment.30 
+The second building block is the national objective discussed in the section on strategy and goals earl y 
+on in this TTR. Juche, or self-reliance, is discussed in the section on key alliances above. From these three 
+building blocks, the KPA military strategy of a surprise attack, a quick decisive war, and one fought with 
+mixed tactics emerges to become the f ourth block. Based on the military strategy, the KPA’s principles 
+of war generate the fifth block. From the principles of war, the KPA develops its offensive and defensive 
+tactical doctrine. 
+Military Strategy 
+Surprise Attack 
+The KPA will attempt to attack its enemy in an unexpected place, time, or means. The characteristics of 
+a surprise attack could include the use of inclement weather, nighttime operations, or rugged terrain; a 
+detailed deception plan; skilled infiltration units to include SPF units; parachute or air assault operations; 
+the massing of fires; the quick concentration of forces at the decisive point and time; or the unexpected 
+employment of large scale mechanized or armor forces.31 
+Quick Decisive War 
+The DPRK lacks the resources to fight a pro tracted war and therefore any war the KPA fights must be 
+quick and decisive. Based on recent experience, the DPRK also realizes that the US democratic system 
+takes time to react as the Americans attempt to build a coalition. If the war is over before the Americans 
+can react, the US may have to let the status quo remain , such as in the recent action in Crimea by the 
+Russians.32 
+Mixed Force Tactics 
+Offensively, the KPA plans a two -front war through both conventional and unconventional means. The 
+DPRK is willin g to launch a pre -emptive strike and is willing to risk its country’s annihilation in order to 
+defeat its enemies. The first front would consist of a massive conventional assault across the DMZ with 
+substantial firepower and chemical attacks on selected fo rward position targets in order to surround 
+Seoul and then move f arther south. Additionally, ballistic missile strikes, including some with chemical 
+warheads, would hit South Korean and US air bases; ports; and command, control, communications,
+
+===== [NK-TTR p.15] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+14 UNCLASSIFIED 
+ 
+computers, intelligence, surveillance, and reconnaissance (C4ISR) assets throughout South Korea and in 
+Japan. There is also a real possibility that North Korea would attempt to use offensive biological 
+weapons in its attacks.33 
+The second front would be an attack by the large KPA SPF units throughout the South Korean rear area 
+in conjunction with North Korean agents already in place. The SPF could reach South Korea by a number 
+of means including helicopters, hovercraft, light planes, parachutes, small boats, submarine s, or 
+infiltration tunnels. These SPF personnel would also simultaneously hit US bases in Japan including 
+Okinawa. In addition, the DPRK would focus on asymmetric warfare attacks using lessons learned from 
+American military actions in the Balkans, Afghanis tan, Iraq, and other places over the last thirty years. 
+Since 1992, North Korean leaders have espoused that its military forces could reach Pusan in just three 
+days. While totally unrealistic, some DPRK leaders actually believe that in the right military a nd political 
+conditions, its goal of reaching Pusan could occur in less than a month. Some South Korean reports 
+indicate that some KPA generals now believe that the capture of the entire peninsula is an impossibility 
+and that after the capture of Seoul, No rth Korea would need to sue for a negotiated peace treaty based 
+upon its position of greater strength. It is not known how Kim Jong Un stands on this change in policy, 
+but some of the KPA’s military plans reflect this change in attitude about taking over t he entire 
+peninsula. If war were to resume on the Korean peninsula, the US and its allies would face a formidable 
+foe both on the front line and in its rear areas.34 
+Operational/Tactical Doctrine 
+The KPA’s doctrine is based on five fundamental principles of war: surprise attack, mass and dispersion, 
+increased maneuverability, cunning and personified tactics, and secure secrets. The use of surprise 
+attack has been covered under military strategy, above. 
+Mass and Dispersion 
+The KPA will concentrate its combat power at the decisive point and time and will weight its main effort. 
+Unlike US doctrine, the KPA believes that its forces will only need a 2:1 ratio of its forces at the decisive 
+point to the enemy to find success in offensive operations. The main effort will operate on a narrower 
+front than the attacks to its flanks and the supporting attacks will disperse over a wider front to deceive 
+the enemy about where the attack may occur. The KPA will use the terrain to maximize its success and 
+use deception operat ions when dispersing to avoid excessive concentration that will make the force a 
+lucrative target.35 
+Increase Maneuverability 
+The KPA wants to fight and win a quick and decisive war and to achieve this objective, the combat units 
+will seek to use the terrain to their advantage. The KPA will employ ground vehicles to quickly reposition 
+artillery, armor, and infantry on the battlefield using the existing high -speed networks or aircraft. The 
+KPA, however, will conduct night moves and use the minor roads as well as the rugged terrain to 
+surprise its enemy. The SPF or other forces will conduct raids to seize key transportation nodes from 
+other forces and the KPA emphasizes maneuverability as a basic element of combat power during 
+training.36
+
+===== [NK-TTR p.16] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+15 UNCLASSIFIED 
+ 
+Cunning and Personified Tactics 
+The KPA focuses on cunning in all planning for its troops and emphasize s to its leaders to use its 
+initiative and aggressiveness with no hesitation. While the KPA conducts comprehensive planning and 
+keep these plans close-hold, the leaders expect its subordinates to conduct quick estimates and conduct 
+bold operations that will result in a quick but decisive war.37 
+Secure Secrets 
+North Korea not only keeps a close hold on all plans, but also distributes false information to confuse its 
+enemy. Activit ies to secure the KPA’s secrets could include reconnaissance, counter -reconnaissance, 
+deceptions, counterintelligence operations, and conducting operations in inclement weather or 
+darkness.38 
+Defensive and Offensive Tactics 
+The KPA professes both a defensiv e and offensive strategy in case of war. The defensive strategy is to 
+prevent any invasion across the DMZ or an amphibious landing on either of its coasts. If such an attack 
+would occur, the DPRK would mobilize not only its 7.7 million reserve personnel but likely declare a total 
+war in which all North Korean citizens would be obligated to defend their country. To deter any foe from 
+attacking the country, the DPRK has threated the use of nuclear weapons against South Korea, Japan, or 
+any reachable US milita ry facility in Asia. The DPRK also has no qualms about the use of chemical or 
+offensive biological weapons. The military decision -making process to invade North Korea could be 
+delayed as its enemies debate its ramifications as long as the DPRK still retain s control of its NBC 
+arsenal.39 
+Other Techniques 
+Besides the milita ry strategy and operational/ tactical doctrine previously discussed, there are also a 
+number of techniques that the KPA will employ for an offensive or defensive operation.40 
+Adequate Logistics 
+The KPA doctrine calls for each commander to ensure that there are sufficient supplies to successfully 
+complete the mission. Due to the lack of supplies faced by the KPA, most commanders will plan to use 
+captured supplies, military or civilian, to adequately complete the assigned mission. The KPA weapons 
+systems, mortars, and artillery, are often of a slightly larger caliber than those of its enemy allowing the 
+DPRK military to use captured military stores while denying the same option to its opponent.41 
+Annihilation 
+The KPA offensive doctrine calls for the destruction of the enemy at all costs by continuing the pursuit, 
+staying close to the enemy to reduce the likelihood of its foe’s superior artillery and close air support 
+coming to the rescue, and continual contact to prevent the enemy from withdrawing or regrouping for a 
+future attack. The taking of terrain is a secondary mission to the enemy’s destruction. In the KPA’s seven 
+designated offensive movements —penetration, thrust, holding, turning, infiltrat ion, besetment, and 
+encirclement—the focus is on the destruction of the enemy or the movement of ground forces in order 
+to set up another maneuver that will aid in the enemy’s annihilation.42
+
+===== [NK-TTR p.17] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+16 UNCLASSIFIED 
+ 
+The KPA will often use a combination of the seven offensive forms of movement as seen from any unit 
+level of operation. The purpose of the penetration, a division -level movement, is to destroy the 
+defending unit by using the first tactical echelon to penetrate the initial defensive position on a 2 - to 3-
+km front to allo w the passage of the second tactical echelon to conduct a deep fight in the enemy’s 
+rear.43 
+The thrust is an offensive movement form used by the KPA at the company, battalion, or regimental 
+level to attack a terrain-oriented defense. Once the defensive position is breached, the remainder of the 
+unit passes through quickly to conduct one of three follow-on missions—strike the enemy in the flank, 
+conduct a turning movement, or initiate a besetment. See the tactical example diagram of an integrated 
+attack below for more details.44 
+A KPA holding movement is used by units conducting an attack that is not part of the main attack. These 
+units receive a much larger front to operate in compared to the main attack. The holding maneuver may 
+consist of a demonstration or feint in order to draw off enemy forces from the main attack’s primary 
+route of attack.45 
+The KPA turning movement is normally the prelude for another type of KPA attack in the enemy’s rear 
+area. The turning maneuver force often follows behind a penetratin g or thrust force to rush armor or 
+mechanized forces to the enemy’s vulnerable rear areas. Upon the completion of the turning 
+movement, the exploitation force may then become part of an encirclement or besetment maneuver.46 
+A KPA infiltration movement is ju st as it sounds as the force uses covert m eans to pass through the 
+enemy’s lines to attack positions in the enemy’s rear area. In an infantry corps -level operation, 
+approximately two-thirds of the light infantry brigade an d sniper brigade or a total of eig ht battalions 
+may be given the mission to conduct raids on key targets in the enemy’s rear —artillery positions, vital 
+chokepoints on major roads, or command posts. This focus on infiltration continues down to all levels: 
+four of six companies from the divi sion light infantry battalion at the division level, one regular infantry 
+company in each regiment, and one regular infantry platoon in each battalion may all receive infiltration 
+missions.47 
+The KPA besetment movement is the surrounding of an enemy strong point in order to inflict maximum 
+casualties on the defensive force. There are four types of besetments: front and one flank; front and two 
+flanks; front and rear; and front, rear, and two flanks. No matter what type of besetment is chosen, 
+indirect fire will attempt to seal any enemy side not covered by the direct fire.48 
+Encirclement is the final KPA offensive movement and is used when the majority of a retreating force 
+can be intercepted, encircled, and annihilated. The preferred location for the atta ck i s between the 
+enemy’s front line defensive positions and the reserve force’s location (s). KPA Army and Corps 
+headquarters may deploy up to two divisions to conduct an encirclement operation. Lower level units 
+will use whatever forces are available. There ar e four sub -categories of KPA encirclement operations: 
+partitioned destruction for large forces; compressed destruction for smaller forces; fire power 
+destruction in narrow areas; and raid destruction for built up areas. See the operational example 
+diagram of a dispersed attack below for more details.49
+
+===== [NK-TTR p.18] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+17 UNCLASSIFIED 
+ 
+Camouflage, Concealment, and Deception 
+Keeping secrets secure involves the use of camouflage, concealment, and deception by all units. Since 
+North Korea will likely not obtain even local air superiority, the KPA doctrine calls for denying the enemy 
+any intelligence it may receive from aerial platforms through the use of both active and passive 
+camouflage, concealment, and deception techniques. The KPAF uses both underground runways and 
+hardened sites to hide ai rcraft from aerial attack. The KPN not only hides its ships in caves that are 
+connected to the sea by fortified tunnels, it will also attempt to hide its vessels among civilian fishing 
+boats found in small villages. All three services will use decoys in or der for the enemy to waste 
+ammunition, something North Korea gleaned from the American aerial strikes on Serbia where the US 
+Air Force fired at fake sites almost as often as actual positions. The KPA armed forces believe that each 
+operation should include a deception plan that may include a demonstration, feint, raid, or an attempt 
+to create fratricide among enemy units.50 
+Combined Operations 
+KPA doctrine emphasizes that all actions, conventional or SPF, must be coordinated at all levels and 
+between the diff erent types of units . Much of this coordination will be done thro ugh liaison or courier 
+that reduces the likelihood that an enemy can learn KPA intent by an increase in radio chatter or the 
+interception of electronic signals. The KPA has many specialized u nits including river crossing brigades 
+and regiments, sniper brigades in all three services, and large numbers of SPF units. Any major KPA 
+attack will coordinate the use of all the different arms to attack the decisive point at the proper time.51 
+Echelon Forces 
+The KPA takes from old Soviet doctrine in its use of echelons during both offensive and defensive 
+operations. In the offense, the KPA will likely place two -thirds of its ground forces in the first echelon 
+and two-ninths in the second echelon, with onl y one-ninth in operational reserve or as a third echelon. 
+The KPA ground forces will also use echelons when forced to go on the defense , as the KPA believes 
+echeloning its forces provides for defensive depth with rapid counterattack possibilities.52 
+Firepower 
+Like the old Soviet Union doctrine that dates back to World War II, the KPA doctrine also expounds the 
+use of large quantities of artillery fire on a single target. The KPA will use massed fires, including 
+chemical weapons, from artillery, missiles, or multiple rocket launchers to both psychologically frig hten 
+as well as annihilate the enemy position. The KPA fields over 4,400 artillery pieces of all types and the 
+KPAF is focused on support of the ground forces. With this large amount of indirect fire su pport 
+available on the battlefield, the KPA can ensure that almost all targets receive the emphasis they 
+deserve. When not otherwise employed, KPAF aircraft will fly in support of ground troops.53 
+KPAF and KPN Employment 
+The KPA doctrine states that joint operations should be used for most missions. Any major attack by the 
+DPRK will likely use KPAF and KPN assets to deploy KPA units into the enemy’s rear areas. The KPAF will 
+fly SPF units in with small airplanes such as the recently repainted Antonov An-2 fleet or helicopters. The 
+KPAF can also use its airplanes or helicopters to parachute drop the KPA’s airborne units to conduct an
+
+===== [NK-TTR p.19] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+18 UNCLASSIFIED 
+ 
+air assault operation. The KPN w ill use its small boats and submarines to clandestinely transport SPF 
+behind the enemy’s lines on both coasts of South Korea.54 
+Mobility 
+The KPA doctrine also stresses the use of armor ed vehicles in all its operations. The KPA ground forces 
+will use the speed of vehicles to exploit all openings and , when on defense, the KPA will employ its 
+mobile forces to counterattack any enemy penetration. KPA vehicles will use the major and minor roads 
+to move quickly, but the KPA light infantry units possess the ability to travel on foot through the rugged 
+mountainous terrain to sneak up on enemy positions from an unexpected direction.55 
+Rear Area Protection 
+The KPA understands the vulnerability of rear areas as the KPA leaders see its enemy’s rear area as an 
+operational center of gravity for American forces. Much of the DPRK’s SPF effort will be directed at its 
+enemy’s rear area. Conversely, the KPA will also defend its own rear area against ground attacks. The 
+DPRK will deploy its vast number of paramilitary units to defend against enemy rear area attacks in 
+order to free up its regular KPA units for more conventional offensive operations.56 
+Reconnaissance 
+Reconnaissance is very important to KPA military doctrine. The KPA will strive to conduct reconnaissance 
+continuously at all levels to include the enemy’s rear area in order to achieve surprise when attacking 
+and t o prevent surprise when on defense . Each forward -deployed KPA infantry corps fields a 
+reconnaissance battalion and each KPA infantry division contains an organic reconnaissance company. 
+Each KPA infantry regiment possesses its own organic reconnaissance pl atoon, but there are also three 
+independent reconnaissance brigades that could be deployed anywhere on the battlefield for additional 
+intelligence-gathering operations.57 
+Two Front War 
+KPA doctrine calls for a two-front war, but not in the traditional sense of the term such as in World War I 
+or World War II. Instead, the DPRK will use its SPF units and agents already on the ground in South Korea 
+to create a “second front” in the enemy’s rear areas while its enemy must continue to deal with the 
+conventional battle on the primary front. The SPF units will attack enemy key command and control (C2) 
+facilities, important logistical centers, and attempt to create fratricide between enemy rear echelon 
+units.58 
+Use the Terrain 
+Lastly, the KPA doctrine calls for its forces to use the terrain to its best advantage with a focus on the 
+mountains, poor weather, or night operations in order to minimize the effects of a technologically 
+superior foe. Just like during the Korean War, the KPA will likely use the mountain ranges and ridges as 
+an avenue of advance in bad weather or at night while its enemy focuses on the more easily accessible 
+valley floor with its highways.
+
+===== [NK-TTR p.20] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+19 UNCLASSIFIED 
+ 
+Tactical Vignettes 
+The following vignettes explore two operational level and two tactical level actions i n detail, 
+accompanied by tactical diagrams to graphically depict the actions. Throughout the following four 
+examples, references will be made to North Korean tactics and, when applicable, related to OPFOR 
+tactics found in TC 7 -100.2, Opposing Force Tactics . The terms will be shown in parenthesis where the 
+North Korean tactic or term is translatable into TC 7-100.2 terminology. 
+1. Operational Offense: Encirclement (Dispersed Attack) 
+ 
+Figure 3. KPA Division encirclement movement (dispersed attack) of an enem y brigade position. 
+Adapted from COL James M. Minnich from his book, The North Korean People’s Army: Origins 
+and Current Tactics, 2005, pp 86-87. Modified by TRADOC G-2 ACE Threats, 17 June 2015. 
+Though a KPA division may conduct an encirclement movement at its operational level , man y of the 
+subordinate KPA units are involved in other forms of military movement as defined by KPA offensive 
+doctrine. A KPA encirclement movement is the functional equivalent of the OPFOR dispersed attack 
+described in TC 7-100.2, pages 3-13 to 3-16. While the KPA assault forces conduct the main attack in the 
+form of an encirclement movement, the fixing forces may conduct thrust, penetration, or holding
+
+===== [NK-TTR p.21] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+20 UNCLASSIFIED 
+ 
+movements in its own areas of operation. In th is example, one of the assault f orces also conducts a 
+turning movement before becoming part of the encirclement forces.59 
+A dispersed attack requires deliberate planning and can be accomplished with or without an advantage 
+in forces over the defensive foe . To make an attack, the KPA requi res only a 2:1 advantage at the point 
+of the attack. The KPA doctrine designates that the main attack advance on a much narrower attack 
+zone and this requires the rest of the division to disperse more widely throughout the remainder of the 
+divisional front. The KPA commander’s intent is to provide the appearance to the enemy that there is 
+significant military force to its front to keep them from assisting other units . The division’s four artillery 
+battalions, three conventional and one rocket, are located i n the Division Artillery Group (DAG) . The 
+DAG may receive additional indirect fire assets from the corps dependent upon whether the division is 
+conducting the main or supporting attack. The DAG initiates the dispersed attack by indirectly firing 
+artillery and rockets not only at the front line units, but at the brigade command post and brigade 
+reserve as well. (For ease of clarity in this example, only one artillery round is shown.) The DAG’s task is 
+to provide adequate indirect fire in order to achieve neu tralization of the brigade reserve; disrupt the 
+command and control of the battalion command post; and to harass as minimum or neutralize, if 
+possible, the front line units ( see TC 7-100.2, p 9-2 to 9-3 for the definition of the terms harass, disrupt, 
+and neutralize in regard to artillery battle damage assessment).60 
+The KPA Division uses its light infantry units (one battalion with six companies) on infiltration missions to 
+initiate the attack during the night, a period of inclement weather, or during poor visibility. All six light 
+infantry companies in the division take part in this example, but only two companies are involved in the 
+actual main encirclement movement. On the western flank, two light infantry companies assist the 
+mechanized battalion to clear a mountain pass that is a terrain chokepoint. The task of the light infantry 
+company and the me chanized infantry battalion is to clear the pass to gain freedom of movement and 
+allow possible exploitation from second echelon units (TC 7 -100.2, p 3 -1). (See Figure 4 below and its 
+accompanying details for an example of a possible KPA thrust attack that could be used to clear this type 
+of chokepoint.) Two other light infantry companies on the same flank infiltrate farther to the south to 
+attack the enemy’s brigade command post by fire in order to destroy it if not already eliminated by the 
+artillery fire . On the eastern flan k, the rema inder of the light infantry battalion—two companies—
+infiltrate over the mountain ridge to serve as the support force on the eas tern side of the planned kill 
+zone. Even though there are adjacent KPA divisions also attacking, t he division’s recon company still 
+protects the eastern flank of the main attack , especially as the main assault for ce makes its turning 
+movement to the west a nd then north again. A single platoon screens the division’s western flank by 
+screening to prevent a surprise attack from the enemy from the adjacent division’s areas of operation.61 
+Away from the main attack and the light infantry battalion activities, there are three other supporting 
+attacks that occur almost simultaneously. This includes the thrust attack on the west flank already 
+mentioned above, a holding maneuver to the west of the main attack (fixing attack in TC 7-100.2, p 3-5) 
+and a penetration move ment to the east of the main attack (also designated a fixing attack in TC 7 -
+100.2, p 3 -5). The engineer battalion and first echelon tank company are prepared to follow the main 
+attack along the major road or along possible secondary avenues of approach to the east. The engineer 
+battalion is prepared to assist with any breach operations required along the main axis of advance or the 
+secondary axis located to the east. The second echelon units consisting of a tank company and two 
+mechanized infantry battalio ns serve as the division’s exploitation force and are back farther to follow
+
+===== [NK-TTR p.22] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+21 UNCLASSIFIED 
+ 
+whichever first echelon unit is most successful . The planned exploitation is along the main axis of 
+advance, but could possibly go west through the cleared chokepoint to the west or if the penetration 
+attack has been more successful than the main attack, farther to the east. 
+The main attack has many moving parts. One tank company and t wo mechanized infantry companies 
+(Assault Force) would then conduct a turning movement from the east to attack the enemy’s brigade 
+reserve from the south. Its task is to get behind the enemy’s brigade reserve with the purpose to drive it 
+into the planned kill zone . If possible, the timing of this attack would occur just after the enemy’s 
+brigade reserve initiated its movement from its assembly area in a move to reinforce a gap in the front 
+lines to its north. The planned KPA kill zone is located between the front line units and the brigade 
+reserve force. If executed correctly, the tank company and two mechanized infantry battalions would 
+attack by fire from the south; one mechanized infantry battalion with possibly a tank comp any would 
+support by fire from the north. The intent is for the main assault force to annihilate the brigade reserve 
+at its most vulnerable time, just as it begins its movement from the reserve assembly area. The two light 
+infantry companies that infiltrated earlier support by fire from the east to prevent the reserve from 
+escaping in that direction. The kill zone’s fourth flank to the west is blocked by high ground. If necessary, 
+indirect fire from artillery and rockets in the DAG could cover the west flank not covered by direct fire 
+from ground units . Besides the second echelon units that will exploit the success of the first echel on 
+assaults, the division will keep approximately one battalion in reserve for other contingencies. The 
+division’s organic air defense battalion will provide sector coverage for the area of operation (see TC 7-
+100.2, Chapter 11).62 
+Upon completion of the encirclement of the brigade reserve and any front-line units falling back into the 
+kill zone and their annihilation, the KPA would continue its movement to the south. Based on its 
+experiences during the Korean War, the KPA expects that if a significant penet ration of the enemy’s 
+front lines occur, enemy adjacent units often conduct retrograde operations to maintain contact with its 
+flanks and to avoid being cut off. If the KPA first echelon forces stil l maintain adequate forces, these 
+units would continue to press the attack southward. If not strong enough to remain a viable force or 
+based on the situation , the KPA division’s second echelon forces could then pass through the first 
+echelon to attack the enemy’s combat support , combat service support , and C2 units in the division 
+and/or corps rear area. The second echelon could follow the planned primary avenue of approach as the 
+Assault Force (TC 7-100.2, p 3 -5 to 3 -6) or along the secondary road s to the east or west if either of 
+those attacks yielded better success. In the tradition of old Soviet doctrine, the KPA will reinforce 
+success and any KPA division plan will contain different route options for the second echelon units to 
+follow based on the success of the first echelon units.63
+
+===== [NK-TTR p.23] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+22 UNCLASSIFIED 
+ 
+2. Tactical Offense: Thrust (Attack to Gain Freedom of Movement) 
+ 
+Figure 4. KPA Thrust Attack (Attack to Gain Freedom of Movement) of an enemy strong point. 
+Adapted from COL James M. Minnich from his book, The North Korean People’s Army: Origins 
+and Current Tactics, 2005, pp 82-83. Modified by TRADOC G-2 ACE Threats, 17 June 2015. 
+At the tactical level, t he KPA thrust maneuver is an example of one of the six offensive tactical missions 
+found in TC 7-100.2 (pages 3-1 to 3-2)—an attack to gain freedom of movement. The other five tact ical 
+offensive missions in TC 7 -100.2 are to restrict freedom of movement; gain control of key terrain, 
+personnel, or equipment; or gain information, dislocate, or disrupt the enemy. The KPA most often uses 
+the thrust maneuver at the regimental, battalion, or company level. An enabling force attacks the 
+enemy position and once the blue forces are defeated, the exploitation force then passes through the 
+cleared axis of advance to continue the attack in the enemy’s rear area as the battalion or higher unit 
+regains its freedom of movement . This example is conducted by a mechanized battalion without 
+assistance from any light infantry com pany, but the mechanized battalion could possibly receive 
+additional assets, if they were available.64 
+While the size of the op eration may vary depending on the level of command involved , the actions are 
+very similar. Initially, the KPA will use artillery or mortars from the DAG or RAG ( Regimental Artillery 
+Group) to support the operation by providing indirect fire on the enemy positions. (For ease of clarity in
+
+===== [NK-TTR p.24] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+23 UNCLASSIFIED 
+ 
+this example, only one artillery attack is shown.) The RAG’s task is to neutralize (TC 7 -100.2, p 9-3) the 
+enemy platoon s to allow the enabling elements to successfully assault and occupy the positions 
+overwatching the minefield placed on the road. Additionally, the artillery would be used as a fixing force 
+to prevent any potential enemy forces from coming to the attacked unit’s assistance. In this role, the 
+artillery would neutralize (TC 7-100.2, p 9-3) the enemy artillery or enemy ground units that react to the 
+attack on the enemy forces. SPF, spies, or forward observers that infiltrated (TC 7-100.2, p 9-15 to 9-17) 
+to observation positions would provide the call for fire on arriving units attempting to reach the 
+attacked units. For a battalion level thrust, 110 to 150 tubes (artillery, mortar, or rocket) could be 
+allocated to the unit making the attack. Even though this battalion will have adjacent friendly units, the 
+battalion commander would still provide security on his flanks to avoid an attac k by the enemy without 
+warning. The KPA commander would most likely use observation posts on high terrain or likely avenues 
+of approach to warn the main body composed of soldiers internal to his battalion or the attached light 
+infantry company.65 
+Due to the rugged terrain on the Korean peninsula, the KPA will likely use light infantry or possibly 
+mechanized infantry operating dismounted to attack enemy units holding a physically difficult terrain 
+feature. While the KPA would like a be tter force ratio, its ground forces will attack even if the assault 
+force only possesses a 2:1 ratio advantage against the defenders. If possible, the KPA ground forces will 
+use an indirect approach to attack the position from a direction the defensive uni t least expects an 
+assault. The enabling elements would eliminate the squad positions on either side of the road that are 
+providing observation to the minefield for its breaching and then to give the battalion back its freedom 
+of movement . While the attack by the enabling elements and the breaching occurred, a dditional 
+security personnel would place observation posts on the most likely avenues of approach by enemy 
+reserves that may come to the assaulted squads’ assistance . Either the engineers, the infantry , or an 
+attached obstacle removal company (only in forward divisions) w ould conduct the breaching operation 
+in order to continue the advance as rapidly as possible to gain the freedom of movement needed by the 
+mechanized battalion . If the infantry that mad e the actual enabling assault on the enemy squad 
+positions were dismounted mechanized or motorized infantry , the successful attackers would rejoin 
+their vehicles as the battalion regains its freedom of movement down the primary avenue of advance or 
+secondary avenue if that route proved easier to traverse.66
+
+===== [NK-TTR p.25] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+24 UNCLASSIFIED 
+ 
+3. Operational Defense: Anti-Tank Defense System (Maneuver 
+Defense) 
+ 
+Figure 5. KPA Division Anti-Tank Defense System (Maneuver Defense). Adapted from COL James 
+M. Minnich from his book, The North Korean People’s Army: Origins and Current Tactics, 2005, pp 
+93-99. Modified by TRADOC G-2 ACE Threats, 17 June 2015. 
+The area defense is the KPA’s principal defensive tactic, which it designs around stopping the enemy’s 
+armor as the KPA leaders consider tanks as the enemy’s most lethal ground attack vehicle. If on defense, 
+the KPA plans to fight an anti -armor battle along the predictable routes that the enemy’s vehicles will 
+likely travel. The KPA’s area defensive doctrine is the functional equivalent of the Maneuver Defense 
+found in TC 7 -100.2 (pp 4-10 to 4 -14). The KPA breaks down its defensive plan into s ix phases: anti -
+armor obstacles, anti-armor fire plan, anti -tank defensive positions, anti -tank engagement areas , the 
+anti-tank reserve, and the counterattack force.67 
+The KPA’s defense phase 1 is the Anti-Armor Obstacle P lan that takes place in front of the forward 
+defensive positions and within each anti-tank (AT) engagement area or kill zone (TC 7-100.2, p 2-15). The 
+KPA will place these obstacle belts so they tie into the terrain and include a combination of AT and anti-
+personnel ( AP) mines. The KPA will cover each concealed obstacle belt with both observers to call in
+
+===== [NK-TTR p.26] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+25 UNCLASSIFIED 
+ 
+indirect fire and direct fire weapons. The obstacle belts will consist of several layers posi tioned to take 
+advantage of the KPA’s various AT weapons’ ranges, normally from 400 to 1,000 meters.68 
+Phase 2 or the Anti-Armor Fire Plan contains four sub-phases conducted by Disruption Forces based on 
+the location of the enemy observed by security elemen ts located ahead of the forward defensive line 
+whose task is to call in indirect fire for the purpose of preventing an effective attack by the enemy (TC 7-
+100.2, p 4 -4 to 4 -5 and pp 9 -15 to 9 -17). During Phase 2a, the KPA plans area fires at potential 
+chokepoints along the suspected avenues of approach, often along main roads. The KPA allocates two 
+artillery battalions per each enemy company to its front. The KPA will fire mortars, artillery, or rockets at 
+these chokepoints. The normal size of a battery tar get is approximately 100 meters wide by 900 meters 
+deep. Phase 2b is a set of planned rolling fires approximately 2,000 meters in front of the forward battle 
+positions with the purpose to disrupt and destroy armor march units as they transition to battle 
+formations. The normal width for these barrages are 400 to 700 meters and may occur every 500 to 800 
+meters for a maximum of four times. Phase 2c or anti-armor rectangular target fires occurs immediately 
+after Phase 2b. The primary difference between the se two types of fire is that w hile the width is 
+approximately the same (400 to 700 meters), the depth of the fire is less, 300 to 500 meters, and is fired 
+in three sequential volleys first by rockets, then by artillery, and lastly by mortars as opposing force s 
+approach the obstacle belts. Anti-armor rectangular fire will cease at the obstacle belt along the forward 
+battle positions. Phase 2d or the direct-fire fight begins at the forward defensive obstacle belts where 
+tanks, AT guns, recoilless rifles, and RPG s fire at their maximum ranges while KPA soldiers fight the 
+enemy’s infantry. The KPA plans indirect final protective fire when the enemy closes to within 300 
+meters of the KPA’s front line forces.69 
+Phase 3 is the AT Defensive Position planned by the regim ental commander, but executed by the 
+battalion commander. The AT defensive position is not shown in detail on this map, but s ee the next 
+example for a diagram and a detail description of the KPA’ s defensive position. The AT defensive 
+position will be set u p along the most likely armor avenue of approach into the forward infantry 
+regiment’s area. Any units or personnel in the forward units that are not killed by the enemy will remain 
+behind to set up stay behind ambushes of enemy combat support and combat se rvice support units as 
+they enter the overrun unit’s area of operations.70 
+Phase 4 or the AT Engagement Area is similar to the AT defensive position, but occurs at the regimental 
+or divisional level. Any enemy forces that pass successfully through the forward regiments’ battalion AT 
+defensive positions will likely run into an AT engagement area set up by other first or second echelon 
+units. The KPA will likely allocate two platoons of SU -100 howitzers to use in a direct fire role and up to 
+two RPG -7 platoons for a regimenta l or divisional level AT engagement area. Any additional weapons 
+systems that might be available such as tanks and recoilless rifles can also be used. The regimental or 
+divisional commander will select a location so that the enemy force wil l be channelized and then can be 
+attacked on three, if not four sides. The attack is similar to the AT defensive position described in the 
+example below, but on a much larger scale.71 
+Phase 5 is the AT Mobile Reserve (TC 7-100.2, p 4 -6) that is designed to destroy any tanks that appear 
+unexpectedly within the KPA’s defensive system, especially in the vulnerable rear areas. This AT mobile 
+reserve would confront any enemy tanks that manage to get through the AT defensive positions, the 
+regimental engagement ar eas, and the division engagement areas. Each KPA division normally keeps 
+two AT companies for this role and locates them between the division’s first and second echelons.72
+
+===== [NK-TTR p.27] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+26 UNCLASSIFIED 
+ 
+The counter attack conducted by the Counterattack Force (TC 7-100.2, p 4-5 to 4-6) is Phase 6 and the 
+final piece of the KPA defensive plan. All regimental and higher units will possess a plan to conduct a 
+counterattack to eliminate any enemy penetrations into its lines. Only the division c ounterattack force 
+(two tank companies and a mechanized infantry company) is shown on the diagram , but each battalion, 
+regiment, division, and corps will designate a counterattack force. Once a penetration becomes a 
+possibility, the appropriate KPA commander will attempt to predict the direction the pene tration will 
+continue and then select a counterattack position, normally one k ilometer to the rear of the penetrated 
+unit. The type of counterattack chosen by the KPA commander will depend on the depth of the 
+penetration (the rear area of that level of unit) and the criticality of the position penetrated. The normal 
+KPA procedure is to conduct a rapid counterattack for a compan y-level penetration, a standar d 
+counterattack for a battalion -level penetration, and a delayed counterattack for a regimental 
+penetration level. The difference between the types of counterattacks is how fast the mission can be 
+executed. The key to reading the counterattack chart below is that if a KPA infantry regiment received 
+the mission to counterattack the penetration of one of its first echelon battalions, it would need to 
+conduct a delayed counterattack (the longest of the three types of KPA counterattacks before the 
+mission can be accomplished) that takes additional time and planning to execute. The division, however, 
+might be able to respond quicker with a standard counterattack against the same penetration while the 
+corps could respond the fastest with a rapid counterattack. The situation at the time and what 
+counterattack force was available could also dictate what unit received the counterattack mission. Once 
+the unit chosen for the counterattack method is designated, the depth of the penetration into the KPA’s 
+lines would determine what method the counterattack force would employ against the penetration.73 
+Table 2. KPA Counterattack Type/Criteria74 
+Counterattack Type Regiment Division Corps 
+Rapid Counterattack 1st Echelon Platoon 
+Penetration 
+1st Echelon Company 
+Penetration 
+1st Echelon Battalion 
+Penetration 
+Standard Counterattack 1st Echelon Company 
+Penetration 
+1st Echelon Battalion 
+Penetration 
+1st Echelon Regiment 
+Penetration 
+Delayed Counterattack 1st Echelon Battalion 
+Penetration 
+1st Echelon Regiment 
+Penetration 
+1st Defense Zone 
+Penetration
+
+===== [NK-TTR p.28] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+27 UNCLASSIFIED 
+ 
+4. Tactical Defense: Anti-Tank Defensive Position (Area Defense) 
+ 
+Figure 6. KPA Battalion Anti-Tank Defensive Position (Area Defense). Adapted from COL James M. 
+Minnich from his book, The North Korean People’s Army: Origins and Current Tactics , 2005, pp 
+96-97. Modified by TRADOC G-2 ACE Threats, 17 June 2015. 
+The anti -tank (AT) defensive position is phase 3 of the six phases of the KPA’s defensive battle plan 
+described previously. The regimental commander designates and plans the main effort battalion ’s AT 
+defensive position. The regimental commander will often select a parallel forward ri dgeline so that the 
+armor vehicles can be hit by a crossfire from two, if not, three directions. The battalion creating this 
+defensive position will receive additional resources such as anti -tank missiles and/or recoilless rifles . 
+(See area defense in TC 7-100.2, pages 4 -14 to 4 -18.) The purpose of the area defense is to force the 
+enemy’s offensive operations to culminate before its objectives are obtained and to deny the enemy its 
+objectives while preserving combat power until a decision in the KPA’s favor can be reached through 
+operational or strategic operations.75 
+The KPA considers enemy armor to be the most deadly ground threat, and the elimination of the armor 
+threat takes priority during defensive planning. When the enemy armor enters artillery range, the 
+Observation Posts’ (TC 7 -100.2, p 8 -13) task is to locate and observe the armor and its purpose is to 
+provide security for the main defensive position as well as to call for indirect fire from the disruption
+
+===== [NK-TTR p.29] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+28 UNCLASSIFIED 
+ 
+force. See previous example for additional indirect fire details, but the artillery is not shown in this 
+example for simplicity. When the enemy armor is within range, the Main Defense Force Element (TC 7-
+100.2, pp 4-5 and 4-21) composed of tanks and AT guns, such as Saggers, engages the enemy with direct 
+fire. The main defense force’s task is to attack by direct fire with a mission to destroy the enemy armor. 
+As the enemy armor continues to advance, the vehicles will meet an AT/AP minefield where disruption 
+elements with recoilless rifles and RPG-7s will engage as the vehicles become bogged down trying to 
+breach the minefield. The disruption e lements’ (TC 7 -100.2, pp 4 -5, 4-20 to 4 -21) task is to support by 
+fire with its purpose to contain the enemy within the kill zone and to prevent the armor from f lanking 
+the defensive battalion’s position. During this time, the main d efense force continue to engage the 
+enemy in the kill zone . Any armor vehicles that make it through the minefield will be at tacked by 
+additional RPG -7 teams of the Disruption Force wi th the task to support by fire with the mission to 
+prevent the armor from escaping from the desired axis of advance. Any AT weapons from the forward 
+position disruption forces that are still operational can relocate to supplemental positions to continue to 
+engage the enemy armor that made it successfully through the kill zone to eliminate those vehicles. The 
+KPA battalion commander will possess a counterattack element (TC 7-100.2, p 4.5 and 4-21) composed 
+of armor and/or AT weapon systems , often hidden from view and shielded from direct fire on the 
+reverse slope of a hill . On order, the counterattack element of two tank platoons will maneuver and 
+attack the enemy’s flank with the purpose to destroy the remaining armor threat before the enemy 
+escapes the AT defensive position. Even if some armor vehicles pass through this first echelon AT 
+defensive position, those elements could face other AT defensive positions, regimental AT engagement 
+areas, or even possibly a division engagement area. Any surviving soldier s and operational weapons 
+systems will continue to engage the attackers, often as a stay behind ambush force focused on 
+unsuspecting combat support or combat service support units that may pass along the avenue of 
+advance.76 
+Section 3: KPA Weapons and Equipment 
+North Korea fields one of the world’s largest militaries, but its equipment ranges from World War II 
+vintage to the most modern. The modern equipment, however, is only in niche areas such as ballistic 
+missiles. There are many sources, such as Jane’s or Military Periscope, for a breakdown of the quantity 
+and types of equipment. Only selected equipment will be discussed here.77 
+Army 
+The KPA is composed of both armor and light units , with large quantities of artillery to provide indirect 
+fire support to both types. The KPA possesses at least 3,700 medium and light tanks that range from the 
+T-34/85 produced in World War II to the Songun-ho, North Korea’s internally -produced tank that 
+combines technologies of the Soviet/Russian T-62, T-72, 7-80, and T-90, and the Chinese-produced Type 
+88 main battle tank (MBT). For information on North Korean tanks, see the two-part series in the 
+TRADOC G -2 ACE Threats Integration Red Diamond newsletter (published in the May and June 2015 
+issues). The KPA can also deploy at least 2,100 infantry fighting vehicles or armored personnel carriers, 
+many of them in the BTR family of vehicles. See the TRADOC G -2 ACE Threats Integration product, “The 
+BTR Handbook-The Universal APC ,” for additional details on the BTR’s capabilities . The KPA ground 
+forces receive indirect fire support from over 13,500 artillery pieces that include mortars, cannons, guns,
+
+===== [NK-TTR p.30] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+29 UNCLASSIFIED 
+ 
+and howitzers that range from 1930s technology to more modern vintage ; free-rocket-over-ground 
+(FROG) missiles based on 1960s and 1970s knowledge ; and multiple rocket launcher systems (MRLS) 
+that consist of Soviet -era types to present-day production models. The KPA also possesses over 15,600 
+antiaircraft artillery (AA) pieces including single, double, and quad AA guns; missile launchers; and man -
+portable air defense systems (MANPADS).78 
+Air Force 
+The KPAF, a subordinate element of the KPA, operates an air fleet of approximately 1,600 aircraft of all 
+types. This includes approximately 80 bombers, 780 fighters, 300 An -2 biplanes, 100 support aircraft, 
+and 300 helicopters. Many of these aircraft are outdated, but the KPAF does fly some formidable 
+fighters, such as the MiG -29 and the slightly -outdated MiG-21 and MiG-23. The An-2 biplane is used to 
+insert KPA SPF elements. The KPAF operates approximately 139 Mi -2 Hoplite and 20 Mi -24 Hind 
+helicopters. The KPA SPF forces can also use MD-500D/E helicopters, ironically originally produced in the 
+US, to insert SPF personnel. The KPAF is also taking advantage of unmanned aerial vehicles (UAV) and 
+possesses over 300 UAVs of various models and technological levels.79 
+Navy 
+While the KPN operat es approximately 1,000 vessels of all types, most of them are not that large and 
+are used primarily for SPF operations, amphibious assaults, and coastal defense. The most formidable of 
+the KPN’s ships are the 20 ROMEO Class attack submarines that could ope rate against enemy surface 
+ships. The KPN also fields over 80 midget submarines that would likely deliver SPF personnel to either 
+coast of South Korea. The KPN operates approximately 430 surface combatant ships and 260 landing 
+craft. Many of these, however , are in dry dock and inoperable. In addition, the Ministry of People’s 
+Armed Forces Coastal Security Bureau operates 150 corvettes, guided -missile patrol boats, torpedo 
+boats, and fire support boats. The KPN also is responsible for coastal defense , with coastal defense guns 
+on both its east and west coasts as well as surface-to-surface missile batteries.80 
+Section 4: North Korean Military Organization 
+North Korea operates a conventional military with a strong SPF capable of irregular warfare. Due to the 
+lack of modern weapons and equipment with a few exceptions —nuclear weapons, missiles, and 
+submarines—even the conventional army may use a number irregular force tactics including 
+information warfare ( INFOWAR) in its operations. The following tables provide th e locations of the 
+major KPA, KPAF, and KPN units or bases as well as the locations of most North Korean runways. The 
+numbers in the last column of each chart correspond with its approximate location on the associated 
+map in Section 1 under locations. 
+Table 3. Major North Korean Army Unit Locations 
+Unit Headquarters Map # 
+1 District Command Wonsan 1 
+I Army Corps Hoeyang 2 
+II Army Corps Hanpori 3
+
+===== [NK-TTR p.31] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+30 UNCLASSIFIED 
+ 
+Unit Headquarters Map # 
+III Army Corps Kaechon 4 
+IV Army Corps Haeju 5 
+V Army Corps Hupyong Ni 6 
+VII Army Corps Tongsin 7 
+VIII Army Corps Tongnim (Changhong) 8 
+IX Army Corps Hamgyong Province 9 
+X Army Corps Yanggang Province 10 
+108 Mechanized Corps Hamhung 11 
+425 Mechanized Corps Chongju 12 
+Pyongyang Defense Command Pyongyang Si 13 
+Pyongyang Air Defense Command Sonnae-san 13 
+11 ‘Storm’ Corps (Light Infantry Training Guidance Bureau) Unknown NA 
+Strategic Rocket Forces Command Suhoe Dong 14 
+Table 4. Major Air Force Unit Locations81 
+Unit Locations Map #s 
+1 Air Combat 
+Division 
+Kaechon Military Air Base (MAB), Uiji MAB, Sunchon MAB, Onchon Up MAB, 
+Pukchang Ni MAB, Panghyon MAB; Yonggang Ni Helicopter Base, Kangdong 
+MAB, Sonchon Helicopter Base, Sunan International Airport 
+4, 15, 16, 17, 
+18, 19, 20, 13 
+2 Air Combat 
+Division 
+Toksan MAB, Hwangsuwon MAB, Iwon Airport, Changjin MAB 21, 22, 23, 24 
+3 Air Combat 
+Division 
+Hwangju MAB, Koksan Airport, Kwail MAB, Hyon Ni MAB, Nuchon Ni Airport, 
+Taetan MAB 
+25, 26, 27, 28, 
+29, 30 
+5 Air Transport 
+Division 
+Kwakson MAB, Manpo MAB, Taechon MAB, Sunan International Airport, 
+Sonchon Helicopter Base, Pukchang East Helicopter Base, Sinjiju Airport 
+31, 32, 33, 13, 
+17, 34 
+6 Air Transport 
+Division 
+Sondok MAB, Yonpo MAB 35, 36 
+8 Air Training 
+Division 
+Orang MAB, Samjiyon MAB, Kyongsong Chuul MAB, Sungam Ni Air Base, 
+Kuktong MAB 
+37, 38, 39, 40 
+Table 5. Major Navy Unit Locations 
+Unit Location Map #s 
+Naval Headquarters Pyongyang 13 
+East Fleet (Headquarters) Toejo Dong 41 
+1 Naval Squadron (East Fleet) Kosong 42 
+2 Naval Squadron (East Fleet) Munchon Up 43 
+3 Naval Squadron (East Fleet) Nagwon Up (Yoho Ri) 44 
+4 Naval Squadron (East Fleet) Mayang Do 45
+
+===== [NK-TTR p.32] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+31 UNCLASSIFIED 
+ 
+Unit Location Map #s 
+5 Naval Squadron (East Fleet) Chaho 46 
+6 Naval Squadron (East Fleet) Puam Dong 47 
+7 Naval Squadron (East Fleet) Najin 48 
+West Fleet Headquarters Nampo 16 
+8 Naval Squadron (West Fleet) Sagon Ni 49 
+9 Naval Squadron (West Fleet) Chodo 50 
+11 Naval Squadron (West Fleet) Pipa Got 51 
+12 Naval Squadron (West Fleet) Yongdok and Yomjugun (Yongampo) 52, 53 
+ 
+Military Capabilities 
+Command and Control 
+The KPA’s ground units are the DPRK’s primary military force. T he KPAF and KPN support the KPA 
+ground forces, primarily through defense of the homeland and the deployment of SPF in the enemy’s 
+rear area. The KPA uses the old Soviet C2 structure with a highly structure d chain of command. While 
+the KPA trains its soldiers to operate at the next higher command level, many commanders may hesitate 
+or show the initiative desired by the chain of command in fear of doing the wrong thing if out of 
+communication with his/her superior for an extended period or if a break occurs i n the chain of 
+command. Since he took over in December 2011, Kim Jong Un has selected four different officers to lead 
+his military, showing that the DPRK’s supreme leader may possess little tolerance for failure.82 
+Maneuver 
+The KPA will use old Soviet tacti cs along the mobile corridors that are usually found on the valley floors. 
+The armored and mechanized forces will likely place two -thirds of its ground forces forward in the first 
+echelon and a little less than one-third in its second attack echelon. The light infantry will likely travel via 
+the mountain ranges or ridges on foot. KPA SPF will likely land in its enemy’s rear areas by sea, 
+helicopter, plane, or via a tunnel. While the US and South Korean forces may be come mesmerized by 
+the mobile units in fro nt of them and concentrate their attention on the armor units, the US/South 
+Korean forces will need to watch their flanks and sides for attacks on foot by light infantry forces or SPF 
+units coming from an unexpected direction.83 
+INFOWAR 
+The DPRK will likely use the seven INFOWAR capabilities —electronic warfare (EW), computer attack, 
+information attack, deception, physical destruction, protection and security measures, and perception 
+management—as best they can. North Korea has already practiced EW with sever al previous attacks 
+against South Korean GPS systems. The hacking of Sony shows that the DPRK , despite North Korea’s 
+denial of the cyberattack, also possesses the ability to attack its enemy’s computer networks. As 
+discussed earlier, the KPA places great e mphasis on camouflage, a major component of deception 
+operations. The common North Korean cannot access the Internet so there is little social media in the
+
+===== [NK-TTR p.33] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+32 UNCLASSIFIED 
+ 
+DPRK. The DPRK attempts to manage the perception of its own people through the control of the 
+information environment. The KPA will also likely use old school techniques such as leaflets and other 
+propaganda methods to attempt to turn South Koreans. See the Red Diamond articles from November 
+2014 and January 2015 for additional details on North Korean INFOWAR capabilities.84 
+RISTA 
+The KPA emphasizes reconnaissance, intelligence, surveillance, and target acquisition (RISTA) 
+capabilities and will use its intelligence resources to gain information about its enemies. North Korea will 
+also use spies and SPF units in its enemy’s rear area to conduct its RISTA activities. The KPA can deploy 
+up to three separate reconnaissance brigades from theater -level assets to conduct RISTA activities. The 
+SPF and agents already planted in country could assist with the location of strategic targets. In addition, 
+each KPA ground unit from corps to regiment fields its own reconnaissance unit —battalion for the 
+corps, company for the division, and platoon for the regim ent. The KPA will also be able to use its UAV 
+fleet of over 300 unmanned aircraft to obtain additional information on the enemy.85 
+Fire Support 
+The KPA doctrine is similar to old Soviet doctrine with heavy emphasis on artillery, missiles, and multiple 
+rocket launchers combined on a single target. If aviation assets are available and not involved in 
+homeland defense, the K PAF will most likely use any additional aviation assets to provide close air 
+support to the KPA ground forces.86 
+Protection 
+KPA doctrine, due to its belief that its forces cannot achieve air superiority against most of its enemies, 
+expounds maximum use of both active and passive camouflage, concealment, and deception in order to 
+prevent the enemy from locating KPA units and important static po sitions. The more ordnance that its 
+enemy uses against decoys, the less ordnance will hit actual KPA units, positions, buildings, and 
+weapons.87 
+Logistics 
+While KPA doctrine states that adequate logistics is important, it is most likely that the DPRK will run out 
+of vital supplies within a short time of the onset of any military operation. It is likely that South Korea 
+maintains a two- to three-month stockpile of food and POL (petroleum, oil, and lubricants). North Korea 
+maintains at least one million tons of rice in storage for potential military operations and only under the 
+severest conditions will it release some of its stores to help the North Korean citizens avoid starvation. In 
+any case, the capture of enemy food, equipment, and ammunition will become a priority for the KPA in 
+order to continue its military operations for a sustain ed period of time. The DPRK may have up to 10 
+million barrels of fuel in storage for wartime use. In 2011, the DPRK purchased between 3,000 and 4,000 
+trucks from Chin a for its military. There are 18 0 arms factories in North Korea along with about 115 
+nonmilitary factories that have a dedicated wartime materiel production mission. The theory of sonjun 
+or “military first” means that any supplies that are available will go to the KPA before civilians.88 
+The General Rear Service Bureau is responsible for all KPA logistics and combat service support 
+operations. This bureau appears to be bloated with at least 15 different subordinate organizations 
+including bureaus for Buildings Manage ment, Clothing, Energy, External Affairs, Farm Management,
+
+===== [NK-TTR p.34] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+33 UNCLASSIFIED 
+ 
+Finance, Medical Service, Military Decorations Management, Munitions Production, Organization and 
+Planning, Prov isions, Rear Service Political O perations, Road Management, Vehi cle Management, and 
+Veterinary S ervices. This large bureaucracy may reduce the effectiveness of the KPA in military 
+operations.89 
+Air Defense 
+KPA’s air defense operates primarily from the ground and not from counter -air operations in the sky. 
+While North Korea possesses one of the most dense air defense networks in the wor ld, it is comprised 
+mostly of obsolete weapons , including its radar , and its air defense weapons are most effective at low 
+altitude targets. Many of the air defense units are situated to pr otect Pyongyang, the DPRK capital city, 
+instead of military units or installations.90 
+UAVs 
+North Korea operates as least eight different types of UAV s and maintains an inventory of at least 300 
+UAVs. Many of these UAVs are outdated models and include the D -4, the Durumi, the MQ M-107D, the 
+Panghyon I/II, the Pchela -1T, the Sky -09P, the Shmel, and at least one other unidentified model. The 
+KPAF and the Reconnaissance General Bureau operate the North Korean UAV fleet. There have been 
+known cases where DPRK UAVs have violated the so uthern boundary of the DMZ, but the North Korean 
+government always denies that the downed UAVs in South Korean territory belong to them.91 
+Conclusion 
+The DPRK’s unorthodox use of provocation in order to obtai n concessions from its enemies —especially 
+the US, South Korea, and Japan—is a danger. One never knows what North Korea will do next as , in the 
+past, the DPRK has sanction ed assassination attempts on South Korean political leaders and conducted 
+bombings when South Korean contingents are in another countr y, unannounced attacks on ships by 
+submarines, unprovoked artillery attacks, or has tunneled underground into another country. US 
+military personnel stationed in South Korea must be prepared for the unexpected from the DPRK.92 
+One of these incidents could i gnite the Korean peninsula back into a full -blown war. While an armistice 
+has been in place since 1953, an armistice is just a ceasefire waiting for a peace treaty to be signed or for 
+the resumption of hostilities. Any conflict between North and South Korea would inevitably bring the US 
+into the conflict as the ROK has been an ally for over six decades. 
+North Korea’s possession of nuclear weapons and the missiles to transport it up to 9,650 km makes it a 
+threat to US forces stationed in Korea, Japan, Alaska , or even the west coast of the continental United 
+States. Even more concerning was the DPRK’s first successful test launch of a KN -11 missile from a 
+submarine on 23 January 2015 since , in the near future, the North Korean submarines could silently 
+move closer to their targets before launching a nuclear missile that would give the US less warning time. 
+If the DPRK thought that the survival of its country or the Kim regime was at stake, North Korea might 
+use any nuclear weapons at its disposal. The KPA also possesses chemical weapons and its doctrine calls 
+for their employment. The DPRK is also involved in biological weapons research and would likely use 
+those with offensive capabilities. US military personnel training for deployment to South Korea must be 
+prepared to fight in a chemical, biological, or nuclear environment.93
+
+===== [NK-TTR p.35] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+34 UNCLASSIFIED 
+ 
+The KPA fields a large conventional military force of over one million soldiers, airmen, and sailors with 
+over seven million uniformed personnel in reserve. North Korea also possesses one of the largest SPF in 
+the world. The KPA will fight using conventional tactics, but will also use unconventional tactics on the 
+“second front,” especially against rear areas. The US military must be prepared to fight this dual 
+threat—conventional war on the ground from the north with irregular warfare in its rear areas. The KPA 
+emphasizes the attack on an enemy’s rear, so US combat support and combat service personnel must be 
+vigilant and be ready to fight the enemy while they continue to provide support to the American combat 
+soldier on the front lines. 
+REAL-WORLD CONDITIONS APPLIED TO TRAINING 
+Of the five DATE countries, the one that most resembles North Korea is Ariana. Militarily, Ariana is the 
+second strongest country in DATE, but is more representative of North Korea than the strongest 
+country, Donovia. Ariana, however, fields more modern equipment and weapons than North Korea. 
+Exercise planners may need to reduce the equipment tier level for Ariana to more closely replicate 
+North Korea. While political ly Ariana is a theocracy and North Korea an oligarchy, both countries are 
+ruled by a small group of people. The difference is that Ariana is ruled by elites from a particular religion 
+while North Korea is ruled by a small number of elites being related to or are close friends with the three 
+generations of the Kim family, the family that has ruled North Korea since the end of World War II. For 
+the other six variables, the DATE could be easily modified to replicate conditions in North Korea. 
+ North Korea primarily uses Soviet/Russian/Eastern bloc weapons systems. These are the legacy 
+systems that the OPFORs have used at the Combat Training Centers ( CTCs) for years. There 
+should be no issues with replication of these former Eastern bloc weapons systems at the CT Cs, 
+but it could be more difficult to successfully imitate these weapons systems during home station 
+training. 
+ All tactical tools needed to recreate North Korean tactics in training exercise are available in the 
+TC 7 -100 series; many of them are based on o ld Soviet tactics modified for the Korean 
+peninsula. Home station OPFOR personnel would likely need some additional training to better 
+use the tactics and techniques favored by North Korea, but the training will be more greatly 
+enhanced than if the OPFOR used modified American methods. 
+ The terrain of North Korea would be hard to replicate at any of the CTCs. Fort Irwin is in the 
+desert and there is no similar environment in either one of the Koreas. The Korean peninsula is 
+very mountainous and that is not the terrain found at either the Joint Readiness Training Center 
+in Louisiana or the Joint Maneuver Training Center in Germany. Home station training may be 
+difficult depending on the location of the unit. For the most part, however, most infantry and 
+armor divisions are stationed at posts that are not mountainous enough to resemble North 
+Korea. Some Army National Guard combat arms units could find similar terrain to what is found 
+in North Korea, but others could not. 
+The Army Training Network (ATN) provides US Soldiers with access to a variety of resources that would 
+assist them with their preparation for deployment to South Korea. These products include.
+
+===== [NK-TTR p.36] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+35 UNCLASSIFIED 
+ 
+ Field Manual (FM) 7 -100.1: Opposing Force Operations (December 2004) ; This manual is one of 
+a series that describes a contemporary opposing force (OPFOR) for training US Army 
+commanders, staffs, and units. It and the other manuals in the series outline an OPFOR that can 
+cover the entire spectrum of military and paramilitary capabilities against which the Army must 
+train to ensure success in any future conflict. 
+ Training Circular (TC) 7-100.4: Hybrid Threat Force Structure Organization Guide (June 2015) : 
+The OPFOR organizations outlined in TC 7 -100.4 and the associated online organizational 
+directories represent a realistic composite of potential adversaries the Ar my might encounter in 
+real-world situations of the near- and mid-term. 
+ TC 7-100: Hybrid Threat (November 2010): This TC describes hybrid threats and summarizes the 
+manner in which such futur e threats may operationally organized to fight US forces. It also 
+outlines the strategy, operations, tactics and organization of the Hybrid Threat that represents a 
+composite of actual threat forces as an OPFOR for training exercises. 
+ TC 7-100.2: Opposing Force Tactics (December 2011) : Provides tactics for an OPFOR that exists 
+for the purpose of training US forces for potential combat operations. 
+ TC 7-100.3: Irregular Opposing Forces (January 2014) : This TC addresses the irregular opposing 
+force (OPFOR) and represents a composite of actual threats and enemies that comprise irregular 
+forces. The three primary categories of irregular forces are insurgents, guerrillas, and criminals. 
+These actors may operate separately or in conjunction with one another and/or combined with 
+regular military forces as the Hybrid Threat. Included are functional tactics for irregular forces. 
+ TC 7-101: Exercise Design Guide (November 2010): This TC outlines a methodology for designing 
+and executing training exercises. 
+ TC 7 -102: Operational Environment and Army Learning (November 2014) : This TC presents 
+concise and enduring doctrine -based guidance on how to integrate the variables of an 
+operational environment (OE) into Army training, education, and leader development. 
+ US Army TRAD OC G -2 Handbook No. 1.08, Irregular Forces (December 2010) : This handbook 
+describes the contemporary irregular forces and summarizes irregular threat actions to counter 
+US forces in the OE. T he handbook describes irregular force tactics; forms of offensive and 
+defensive operations; irregular tactics, techniques, and terrorism; and the irregular forces 
+planning cycle. 
+ Worldwide Equipment Guide (WEG)—2014: The WEG is a list of equipment that US forces would 
+most likely find used by its enemies on the battlefield. While not all weapons and weapons 
+systems are listed in the WEG, similar weapons can be found. The WEG also tells how an 
+exercise planner substitutes a weapon or vehicle in the WEG for one found in the actual military 
+that is being replicated for the exercise. 
+ Decisive Action Training Environment (April 2015): The purpose of this Decisive Action Training 
+Environment (DATE) document, version 2.2 , is to provide the US Army training community with 
+a detailed description of the conditions of five composite OEs in the Caucasus region. It presents 
+trainers with a tool to assist in the construction of scenarios for specific training events, but does
+
+===== [NK-TTR p.37] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+36 UNCLASSIFIED 
+ 
+not provide a complete scenario. The DATE offers discussions of OE conditions through the 
+political, military, economic, social, information, infrastructure, physical enviro nment, and time 
+(PMESII-PT) variables. The DATE incorporates real -world data and artificial data in order to set 
+the conditions for a wide range of training events, to include decisive operations. 
+ Regionally Aligned Forces Training Environment (RAFTE) Pacific (September 2014): A RAFTE is 
+intended to be used when already familiar with DATE. A RAFTE is a supplement to DATE that can 
+be used when training must occur for operations in a known part of the world. A RAFTE 
+identifies the conditions of a selected OE that are unique from what is already in the DATE. It 
+will enable training based on current conditions specific to an OE, in this case most of the 
+countries that fall under the responsibility of the Pacific Command (PACOM). RAFTEs are 
+different but not separate from the DATE. 
+ RAFTE North Korea (April 2014): This is a RAFTE specifically focused on North Korea. 
+ Information Environment Assessment (June 2008): This product describes the Information 
+Environment for a number of countries including North Korea. 
+ North Korea Operational Environment Assessment (OEA) (2006): This is the most current OEA 
+published by ACE Threats Integration, but is mostly outdated since it is nearly a decade old. 
+Many changes have occurred since its publication including the death of Kim Jo ng Il and the 
+succession of his son, Kim Jong Un. Some information, especially in the Physical Environment 
+variable, is still valid. 
+ Asymmetrical Warfare Group (AWG) Subterranean Warfare Handb ook. This FOUO handbook 
+contains a section on North Korean use of tunneling operations. 
+ Red Diamond Newsletters Articles 
+o March 2015: North Korean Leadership Turmoil 
+o January 2015: INFOWAR-North Korean Capabilities (Part 2) 
+o November 2014: INFOWAR-North Korean Capabilities (Part 1) 
+o July 2014: Unmanned Aircraft System Vulnerabilities 
+o May 2014: The BRDM: The Multi-Purpose Reconnaissance Vehicle 
+o August 2013: Shaping the North Korean EMP Threat 
+o June 2012: North Korean Jamming of GPS Systems 
+ North Korea GPS Jamming: This ACE Threats Integration Threat Report examines the jamming of 
+South Korean GPS signals by North Korea. 
+ BTR: The Universal APC Handbook: This ACE Threats Integration Handbook describes the various 
+BTR variants on the battlefield. The KPA fields a large number and a variety of BTRs. 
+The following chart provides a connection between the real -world condition in North Korea, a 
+comparable example of the condition in DATE as well as the relevant pages from the threat Field 
+Manuals, Training Circulars, or other product. The page numbers where these connections can be found
+
+===== [NK-TTR p.38] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+37 UNCLASSIFIED 
+ 
+are also listed in the chart. To find the product, use the links to the documents listed in the previo us 
+section. 
+Conditions in DATE and Doctrine 
+Real-World 
+Condition 
+Comparable 
+Condition in 
+DATE 
+Chapter/section/
+word or phrase to 
+search 
+Relevant 
+Information in 
+Threat Doctrine 
+Manual and 
+Page(s) 
+DPRK Oligarchy 
+Government 
+National Command 
+Authority; Centers of 
+Political Power-
+Family Authority 
+DATE 2A, 2B, 2D, 
+2E; National 
+Command Authority; 
+Centers of Political 
+Power 
+National Command 
+Authority 
+FM 7-100.1, 1-2; TC 
+7-101, 3-2 to 3-6; TC 
+7-102, 1-4; TC 7-
+100.2, 1-1 to 1-2 
+DPRK Strategic 
+Goals 
+National Strategic 
+Goals/Strategy 
+DATE 2A, 2B, 2C, 
+2D, 2E; National 
+Strategic Goals; 
+Strategy 
+National Strategic 
+Goals 
+FM 7-100.1, 1-2; TC 
+7-100.2, 1-3 to 1.4 
+DPRK National 
+Security Strategy 
+Framework 
+Military Authority DATE 2A, 2B, 2C, 
+2D, 2E; Military 
+Authority 
+Framework for 
+implementing 
+National Security 
+Strategy 
+FM 7-100.1, 1-2 to 1-
+5; TC 7-100.2, 1-4 to 
+1.5 
+DPRK Strategic 
+Operations 
+Strategic Operations DATE 2A, 2B, 2C, 
+2D, 2E; Strategic 
+Operations 
+Strategic Operations FM 7-100.1, 1-8 to 1-
+9; TC 7-100.2, 1-5 
+DPRK Regional 
+Operations 
+Regional Operations DATE 2A, 2B, 2C, 
+2D, 2E; Regional 
+Operations 
+Regional Operations FM 7-100.1, 1-9 to 1-
+10; TC 7-100.2, 1-5 
+to 1-6 
+DPRK Transition 
+Operations 
+Transition 
+Operations DATE 2A, 2B, 2C, 
+2D, 2E; Transition 
+Operations 
+Transition 
+Operations 
+FM 7-100.1, 1-10 to 
+1-12; TC 7-100.2, 1-
+6 
+DPRK SPF 
+Operations 
+Adaptive 
+Operations/Hybrid 
+Threats 
+DATE 2A, 2B, 2C, 
+2D, 2E; Adaptive 
+Operations; Hybrid 
+Threat 
+Adaptive 
+Operations/Hybrid 
+Threats 
+FM 7-100.1, 1-12; 
+TC 7-100; TC 7-
+100.2, 1-6 
+DPRK Nuclear 
+Capability 
+CBRN; Nuclear 
+Power 
+DATE 2A, 2B, 2E; 
+Nuclear; CBRN 
+Cause Politically 
+Unacceptable 
+Casualties 
+FM 7-100.1, 1-15 
+DPRK Lack of 
+Technology 
+ Neutralize 
+Technological 
+Overmatch 
+FM 7-100.1, 1-15 to 
+1-16 
+DPRK Annihilation 
+Doctrine 
+ Allow no sanctuary FM 7-100.1, 1-17 
+DPRK Paramilitary 
+Forces 
+Government 
+Paramilitary Forces; 
+7 million reservists 
+DATE 2A, 2B, 2C, 
+2D, 2E; RAFTE-
+North Korea; 
+Paramilitary; 
+Reserve 
+Role of Paramilitary 
+& Irregular Forces in 
+Operations 
+FM 7-100.1, 1-20; 
+TC 7-100, 2-5; TC 7-
+100.2, 1-16 
+DPRK Internal 
+Security Forces 
+Internal Security 
+Forces 
+DATE 2E; Internal 
+Security 
+Internal Security 
+Forces 
+FM 7-100.1, 1-20 to 
+1-21 
+DPRK Centralized 
+Planning 
+ Centralized Planning FM 7-100.1, 2-2 
+DPRK Decentralized FM 7-100.1, 2-2
+
+===== [NK-TTR p.39] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+38 UNCLASSIFIED 
+ 
+Real-World 
+Condition 
+Comparable 
+Condition in 
+DATE 
+Chapter/section/
+word or phrase to 
+search 
+Relevant 
+Information in 
+Threat Doctrine 
+Manual and 
+Page(s) 
+Decentralized 
+Execution 
+Execution 
+DPRK C2 Command & Control DATE 2A, 2B, 2C, 
+2D, 2E; Command; 
+Control; C2 
+Command & Control 
+Structures 
+FM 7-100.1, 2-3; TC 
+7-100.2, 2-1 to 2-34 
+KPA Peacetime 
+Structure 
+Army Overview; 
+Army Size & 
+Structure; Order of 
+Battle (OB) 
+DATE 2A, 2B, 2C, 
+2D, 2E; Force 
+Structure; Order of 
+Battle; OB 
+Administrative Force 
+Structure 
+FM 7-100.1, 2-6; 
+TC 7-100.4, 2-1 to 2-
+20; TC 7-101, 3-6 to 
+3-11; TC 7-100.2, 1-
+2 to 1-3 
+KPA Wartime 
+Structure 
+Army Size & 
+Structure 
+DATE 2A; 2B; 2E; 
+Wartime Force 
+Structure 
+Task-Organizing TC 7-100.4, 3-1 to 3-
+25 & Appendix B; TC 
+7-100, 6-1 to 6-8 
+KPA Strategic 
+Forces Rocket 
+Command 
+Strategic Forces DATE 2E; Rocket Integrated Fires 
+Command 
+FM 7-100.1, 2-14 
+KPA General Rear 
+Service Bureau 
+ Integrated Support 
+Command 
+FM 7-100.1, 2-17 
+KPA “Two Front” 
+War 
+ Battlefield Geometry FM 7-100.1, 2-18 to 
+2-22 
+KPA Operations 
+Security 
+ Operations & 
+Information Security 
+FM 7-100.1, 2-50 
+KPA Offensive 
+Doctrine 
+Army Doctrine & 
+Tactics; Maneuver 
+DATE 2A; 2E; 
+Offensive Doctrine; 
+Tactics; Maneuver 
+Offensive Operations FM 7-100.1, 3-1 to 3-
+28; TC 7-100.2, 3-1 
+to 3-43 
+KPA Defensive 
+Doctrine 
+Army Doctrine & 
+Tactics 
+DATE 2A; Defensive 
+Doctrine; Tactics 
+Defensive 
+Operations 
+FM 7-100.1, 4-1 to 4-
+28; TC 7-100.2, 4-1 
+to 4-35 
+DPRK INFOWAR INFOWAR DATE 2A, 2B, 2C, 
+2D, 2E INFOWAR; 
+Information Warfare 
+Information Warfare FM 7-100.1, 5-1 to 5-
+18; TC 7-100, 3-5 to 
+3-6, 5-1 to 5-2; TC 7-
+101, 3-20 to 3-25; 
+TC 7-102, 1-5; 2-3, 
+3-4; TC 7-100.2, 7-1 
+to 7-16; IEA 
+KPA RISTA RISTA DATE 2A, 2B, 2C, 
+2D, 2E; RISTA; 
+Reconnaissance 
+Reconnaissance FM 7-100.1, 6-1 to 6-
+10; TC 7-100.2, 8-1 
+to 8-18 
+KPA Fire Support 
+Operations 
+Fire Support DATE 2A, 2B, 2C, 
+2D, 2E; Fire Support; 
+Artillery; Close Air 
+Support; CAS 
+Fire Support FM 7-100.1, 7-1 to 7-
+17; TC 7-100.2, 9-1 
+to 9-26 
+KPAF Air Force Overview; 
+Air Force Size & 
+Structure 
+DATE 2A, 2B, 2C, 
+2D, 2E; Air Force 
+Structure 
+Aviation FM 7-100.1, 8-1 to 8-
+14; TC 7-100.2, 10-1 
+to 10-31 
+KPN Naval Forces 
+Overview; Navy Size 
+& Structure 
+DATE 2A, 2B, 2C, 
+2D, 2E; Navy 
+Structure 
+ 
+KPAF Air Defense Air Defense DATE 2A, 2B, 2C, 
+2D, 2E; Air Defense; 
+AD; ADA 
+Air Defense Support FM 7-100.1, 9-1 to 9-
+34, TC 7-100.2, 11-1 
+to 11-30
+
+===== [NK-TTR p.40] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+39 UNCLASSIFIED 
+ 
+Real-World 
+Condition 
+Comparable 
+Condition in 
+DATE 
+Chapter/section/
+word or phrase to 
+search 
+Relevant 
+Information in 
+Threat Doctrine 
+Manual and 
+Page(s) 
+KPA Emphasis on 
+Camouflage 
+Protection DATE 2A, 2B, 2C, 
+2D, 2E; Camouflage; 
+Concealment; Cover; 
+Deception 
+Camouflage, 
+Concealment, Cover, 
+& Deception 
+FM 7-100.1, 9-18 
+KPA Engineering & 
+Tunneling 
+Subterranean 
+Environment 
+DATE 2A, 2B, 2E; 
+Subterranean; 
+Tunnel 
+Engineer Support FM 7-100.1, 10-1 to 
+10-15; TC 7-101, 3-
+26 to 3-30; TC 7-
+102, 1-5; TC 7-
+100.2, 12-1 to 12-32; 
+AWG Tunneling 
+Handbook 
+DPRK WMD Biological Weapons 
+Threat 
+RAFTE-North Korea, 
+Biological 
+CBRN and Smoke 
+Operations 
+FM 7-100.1, 11-1 to 
+11-18; TC 7-100, 2-7 
+to 2-8; TC 7-100.2, 
+13-1 to 32 
+KPA Logistics Logistics; Defense 
+Industries; Lack of 
+motorized 
+transportation 
+DATE 2A, 2B, 2C, 
+2D, 2E; RAFTE-
+North Korea; 
+Logistics; Supply 
+Logistics FM 7-100.1, 12-1 to 
+12-22; TC 7-100.2, 
+14-1 to 14-17 
+SPF Navy Doctrine & 
+Tactics; 25 SPF 
+Brigades 
+DATE 2A, 2E; 
+RAFTE-North Korea; 
+Navy Doctrine; SPF 
+Airborne, Special-
+Purpose Forces, & 
+Amphibious 
+Operations 
+FM 7-100.1, 13-1 to 
+13-20; TC 7-100.2, 
+15-1 to 15-34, 16-1 
+to 16-12 
+KPA Weapons 
+Systems 
+Army Equipment & 
+Weapons; Navy 
+Equipment & 
+Weapons; Air Force 
+Equipment & 
+Weapons 
+DATE 2A, 2B, 2C, 
+2D, 2E; Equipment 
+Equipment 
+Operations/OPFOR 
+Tier Levels 
+TC 7-100.4, 4-1 to 4-
+12; TC 7-101, 2-9 to 
+2-11 
+Reverence of Kim 
+Family 
+Cult of Personality RAFTE-Pacific; 
+RAFTE-North Korea; 
+Personality Cult 
+ 
+Inexperienced 
+Dictator 
+Young dictator with 
+no succession plan 
+RAFTE-Pacific; 
+RAFTE-North Korea; 
+Dictator 
+ 
+Diplomacy by 
+threat of WMB 
+Nuclear weapons 
+trump card 
+RAFTE-Pacific; 
+RAFTE-North Korea; 
+Nuclear 
+ 
+Military First 
+Concept 
+Sanjun RAFTE-North Korea; 
+Sanjun 
+ 
+Preemptive Attack 
+Doctrine 
+Attack first if they 
+feel threaten 
+RAFTE-North Korea; 
+Preemptive Strike; 
+Surprise Attack 
+ 
+North Korean Weapons in the WEG 
+Real-World Weapon Type of Weapon WEG Location
+
+===== [NK-TTR p.41] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+40 UNCLASSIFIED 
+ 
+Real-World Weapon Type of Weapon WEG Location 
+Russian T-34/85 Main Battle Tank (MBT) Vol 1, Chapter 5 
+Russian T-54/T-55 MBT Vol 1, Chapter 5 
+Russian PT-76B Amphibious Tank Vol 1, Chapter 6 
+North Korean M1985 Light Tank Vol 1, Chapter 6 
+Chinese Type 63A Light Tank Vol 1, Chapter 6 
+Russian BRDM-2 Scout Car Vol 1, Chapter 6 
+Russian BTR-60PB Armored Personnel Carrier (APC) Vol 1, Chapter 3 
+Russian BTR-80 APC Vol 1, Chapter 3 
+Russian BTR-80A APC Vol 1, Chapter 3 
+Russian BTR-152 APC Vol 1, Chapter 3 
+Chinese YW 531A/531C APC Vol 1, Chapter 3 
+North Korean VTT-323 APC Vol 1, Chapter 3 
+Russian BMP-1 Infantry Fighting Vehicle (IFV) Vol 1, Chapter 3 
+Russian BMP-1P IFV Vol 1, Chapter 3 
+North Korean M1978 & M1989 170-mm Self Propelled (SP) Gun (Koksan) Vol 1, Chapter 7 
+Russian M-46 130-mm Towed Gun Vol 1, Chapter 7 
+100/120-mm Mortars Vol 1, Chapter 7 
+Russian 2S9-1 120-mm SP Combination Gun Vol 1, Chapter 7 
+Russian M-37 82-mm Mortar Vol 1, Chapter 7 
+Russian 9P140 220-mm Multiple Rocket Launcher System (MRLS) Vol 1, Chapter 7 
+Russian 9A51/PRIMA 122-mm MRLS Vol 1, Chapter 7 
+Russian BM-21 122-mm MRLS Vol 1, Chapter 7 
+Chinese Type 63 107-mm MRLS Vol 1, Chapter 7 
+Russian B-11 107-mm Recoilless Gun Vol 1, Chapter 6 
+Russian B-10 82-mm Recoilless Gun Vol 1, Chapter 6 
+Russian D-44 85-mm Towed Anti-Tank (AT) Gun Vol 1, Chapter 6 
+Russian Malyutka-2 Anti-Tank (AT)-3 Sagger Anti-Tank Gun Missile (ATGM) 
+Launcher 
+Vol 1, Chapter 6 
+Russian 9P135 (9K111) AT-4 Spigot ATGM Vol 1, Chapter 6 
+Russian 9P148 AT-5 Spandrel ATGM Vol 1, Chapter 6 
+Russian KS-19M2 100-mm Towed Anti-Aircraft (AA) Gun Vol 2, Chapter 6 
+Russian ZSU-57-2 57-mm SP AA Gun Vol 2, Chapter 6 
+Russian S-60 57-mm Towed AA Gun Vol 2, Chapter 6
+
+===== [NK-TTR p.42] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+41 UNCLASSIFIED 
+ 
+Real-World Weapon Type of Weapon WEG Location 
+Russian M-1939 37-mm Towed AA Gun Vol 2, Chapter 6 
+Chinese Type 65 37-mm Towed AA Gun Vol 2, Chapter 6 
+Russian ZSU-23-4 23-mm SP AA Gun Vol 2, Chapter 6 
+Russian ZU-23 23-mm Towed AA Gun Vol 2, Chapter 6 
+Russian ZPU-4 14.5-mm Heavy Machine Gun (MG) Vol 2, Chapter 6 
+Russian SA-3 Surface to Air (SA) Goa Missile Vol 2, Chapter 6 
+Russian S-200V SA-5B Gammon SA Missile Vol 2, Chapter 6 
+Russian 9K32M (Strela-2M) SA-7B Grail SA Missile Vol 2, Chapter 6 
+Russian S-300-M SA-10B Grumble SA Missile Vol 2, Chapter 6 
+Russian S-300PMU1 SA-20A Gargoyle SA Missile Vol 2, Chapter 6 
+Russian 9K35M3 (Strela-
+10M3) 
+SA-13B Gopher SA Missile Vol 2, Chapter 6 
+Russian 9K34 (Strela-3) SA-14 Gremlin SA Missile Vol 2, Chapter 6 
+Russian 9K310 (Ingla-1) SA-16 Gimlet SA Missile Vol 2, Chapter 6 
+Russian 9K38 (Igla) SA-18 Grouse SA Missile Vol 2, Chapter 6 
+US FIM-92 Stinger SA Missile Vol 2, Chapter 6 
+Russian Scud-B/C Surface to Surface (SS) Missile Vol 2, Chapter 5 
+North Korean Nodong-1/2 SS Missile Vol 2, Chapter 5 
+Chinese H-5 Beagle Light Bomber Vol 2, Chapter 3 
+Russian Su-17 Fitter Close Air Support (CAS) Aircraft Vol 2, Chapter 3 
+Russian Su-25tm & Su-39 Frogfoot Multi-Role Attack Aircraft Vol 2, Chapter 3 
+Chinese F-6 Farmer Fighter Vol 2, Chapter 3 
+Russian MiG-29 Fulcrum Multi-Role Fighter Vol 2, Chapter 3 
+Russian MiG-23 Flogger Multi-Role Fighter Vol 2, Chapter 3 
+Russian MiG-21 Fishbed Multi-Role Fighter Vol 2, Chapter 3 
+Chinese J-7 Fishbed Fighter Vol 2, Chapter 3 
+Russian An-2 Colt Transport Aircraft Vol 2, Chapter 3 
+Russian Il-18 Coot Transport Aircraft Vol 2, Chapter 3 
+Russian Shmel-1 Unmanned Aerial Vehicle (UAV) Vol 2, Chapter 4 
+Russian Pchela-1K UAV Vol 2, Chapter 4 
+Russian Mi-2 Hoplite Medium Multi-Role Helicopter Vol 2, Chapter 2 
+Russian Mi-24/35 Hind Attack Helicopter Vol 2, Chapter 2 
+US MD-500MD Defender Light Helicopter Vol 2, Chapter 2
+
+===== [NK-TTR p.43] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+42 UNCLASSIFIED 
+ 
+Real-World Weapon Type of Weapon WEG Location 
+Russian Mi-8 Hip-C Multi-Role Helicopter Vol 2, Chapter 2 
+Russian AA-2 Atoll Air-To-Air (AA) Missile Vol 2, Chapter 2 
+Russian AA-7 Apex AA Missile Vol 2, Chapter 2 
+Russian AA-8 Aphid AA Missile Vol 2, Chapter 2 
+Russian AA-10 Alamo AA Missile Vol 2, Chapter 2 
+Russian AA-11 Archer AA Missile Vol 2, Chapter 2 & 3 
+Chinese Pl-5 Thunderbolt AA Missile Vol 2, Chapter 2 
+Russian Volga-75SM Guideline SA Missile Vol 2, Chapter 2 
+SANG-O Coastal Infiltration Submarine Vol 3, Chapter 3 
+North Korean SOJU Guided Missile Patrol Craft Vol 3, Chapter 3 
+North Korean SOHUNG Guided Missile Patrol Craft Vol 3, Chapter 3 
+Chinese HUANGFENG Fast Attack Missile Craft Vol 3, Chapter 3 
+North Korean 
+Semisubmersible 
+Infiltration Landing Craft Vol 3, Chapter 3 
+Russian 4K40 Surface-To-Surface (Anti-Ship) Missile Vol 3, Chapter 1 
+Indian/Russian BrahMos Supersonic Cruise (Anti-Ship) Missile Vol 3, Chapter 5
+
+===== [NK-TTR p.44] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+43 UNCLASSIFIED 
+ 
+ 
+Legend for Tactical Diagrams 
+This legend presents the military symbols, mission task symbols, and control measures from a threats 
+perspective as used in the tactical diagrams in this report . The primary adversary or enemy is presented 
+in the color blue.
+
+===== [NK-TTR p.45] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+44 UNCLASSIFIED 
+ 
+POCs 
+ 
+Author 
+H. David Pendleton 
+913-684-7946 (COMM) 
+552-7946 (DSN) 
+ 
+TRADOC G-2 Analysis and Control Element Threats Integration (ACE-TI) 
+803 Harrison Drive, BLDG 467 
+Fort Leavenworth, KS 66027 
+ 
+Jon Cleaves, ACE-TI Director 
+Jennifer Dunn, ACE-TI Deputy Director 
+Jon Moilanen, ACE-TI Operations 
+Angela Wilkins, ACE-TI Product Integration 
+ 
+ 
+ 
+ 
+ 
+References 
+Agence France-Presse (AFP). “US reconnaissance plane under jamming attack: aide.” 9 September 2011. 
+Ashdown, Neil, Nick Hansen, and Sean O’Connor. “Stability in North Korea? Assessing the impact of recent elections.” Janes. 
+June 2014. 
+Associated Press (AP). “N. Korea fires artillery onto St. Korean Island; 2 dead.” USA Today. 23 November 2010. 
+Bechtol, Bruce E. Jr. “South Korea: Responding to the North Korean Threat.” American Enterprise Institute for Public Policy 
+Research (AEI). November 2013. 
+Bolton, John R. “How little we know about North Korea.” AEO. 23 October 2014. 
+British Broadcasting Corporation (BBC). “North Korea issues mobile phone etiquette guidelines.” 29 September 2014. 
+Bruner, Edward F. “North Korean Crisis: Possible Military Options.” Congressional Research Service Report for Congress, 29 July 
+2003. 
+The Brookings Institution, “Beyond Official North Korea: A British Diplomat’s Observations of Daily Life,” 25 June 2012. 
+Center for Strategic & International Studies (CSIS). “Record of North Korea’s Major Conventional Provocations since 1960s.” 25 
+May 2010. 
+Congressional Research Service (CRS). 
+Eberstadt, Nicholas. “North Korea could be in store for a purge – and destabilization.” AEI. 13 December 2013. 
+Eberstadt, Nicholas. “North Korea merry-go-round.” AEI. 9 October 2014. 
+Eberstadt, Nicholas. “Time for the ‘never agains’ on North Korea.” AEI. 18 February 2014. 
+Fillingham, Zachary. “An Opaque North Korean Power Struggle.” Geopolitical Monitor. 30 December 2013. 
+Ford, Roger. “The Gatefold Book of Tanks.” Barnes & Noble Books. 1998. 
+Foss, Christopher F. “Tanks and Combat Vehicles Recognition Guide.” Jane’s. 2000. 
+Friedman, George. “Ferocious, Weak and Crazy: The North Korean Strategy.” STRATFOR. 
+Gallagher, Sean. “North Korea pumps up the GPS jamming in week-long attack.” ARS Technica. 9 May 2012. 
+Gause, Ken. “Leadership Transition in North Korea.” Council on Foreign Relations (CFR). January 2012. 
+Hewlett-Packard (HP) Security Research. “Profiling an enigma: The mystery of North Korea’s cyber threat landscape.” August 
+2014. 
+Note: Not all references listed in this publication are readily available to the public; some require 
+a government common access card (CAC) to view.
+
+===== [NK-TTR p.46] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+45 UNCLASSIFIED 
+ 
+Hickey, Walter. “Cyber War: North Korea Is Getting Dangerously Good At Knocking Out Networks.” Business Insider. 8 June 
+2012. 
+Hogg, Chris. “Two South Korean civilians died in attack by North.” British Broadcasting System (BBC). 24 November 2010. 
+Hui, Ma Tong. “Reunification of Korea is a Major Security Issue on the Korean Peninsula: The North Korean Perspective,” 
+Institute for Security and Development Policy, October 2010. 
+Jane’s Amphibious and Special Forces. “Country Overview.” [Korea, North] 17 December 2012. 
+Jane’s Amphibious and Special Forces. “Sea Lift.” [North Korea] 17 December 2012. 
+Jane’s Defence Weekly, “Briefing: Korean Armed Forces Capabilities: North/South Divide,” Page 30-32. 
+Jane’s Intelligence Weekly. “Changed Reactor – North Korea’s nuclear expansion.” 29 August 2013. 
+Jane’s Intelligence Weekly. “North Korea replaces armed forces minister.” 14 May 2013. 
+Jane’s Missiles & Rockets. “Unha-3 launches North Korea’s first satellite.” 12 December 2012. 
+Jane’s Sentinel Security Assessment. “Korea, North > Demography.” 28 August 2014. 
+Jane’s Sentinel Security Assessment. “Korea, North > Economy.” 28 August 2014. 
+Jane’s Sentinel Security Assessment. “Korea, North > Executive Summary.” 28 August 2014. 
+Jane’s Sentinel Security Assessment. “Korea, North > Infrastructure.” 28 August 2014. 
+Jane’s Sentinel Security Assessment. “Korea, North > Natural Resources.” 28 August 2014. 
+Jane’s Sentinel Security Assessment. “Korea, North > Non-State Armed Groups.” 28 August 2014. 
+Jane’s Sentinel Security Assessment. “Korea, North > Procurement.” 1 September 2014. 
+Jane’s Sentinel Security Assessment. “Strategic Weapon Systems.” [Korea, North] 23 July 2014. 
+Jane’s World Air Forces. “North Korea – Air Force.” 9 April 2014. 
+Kim, Sung Han. “The Future of North Korea.” Center for Strategic & International Studies. 4 November 2014. 
+Military Periscope. “Nations/Alliances/Geographic Regions: Asia – North Korea: State Dept. Travel Reports.” 3 November 2011. 
+Newser. “North Korea: Yes, We have Labor Camps.” 8 October 2014. 
+Next Government. “North Korean GPS Jamming Update.” 10 May 2012. 
+North Korea Tech, “GPS jamming ends, says report.” 16 May 2012. 
+North Korea Tech. “Pyongyang denies GPS jamming.” 19 May 2012. 
+North Korea Tech. “Report: DPRK again jams GPS signals.” 7 March 2011. 
+North Korea Tech. “Report: Stronger GPS jammer developed.” 11 September 2011. 
+Oh, Dongdan. “Military Confrontation on the Korean Peninsula.” Institut für Strategic-Politik-Sicherheits-und 
+Wirtschaftsberatung, Berlin, 11 February 2011. 
+Phneah, Ellyne. “South Korea to beef up GPS surveillance system.” 10 April 2013. 
+Physorg.com. “North Korea upgrades jamming devices: report.” 6 September 2011. 
+Sanger, David E. and Nicole Perlroth. “U.S. Said to Find North Korea Ordered Cyberattack on Sony.” The New York Times. 17 
+December 2014. 
+Sieff, Martin. “Hardline Hwang Pyong-so is North Korea’s second in command.” Asia Pacific Defense (APD) Forum. 28 May 2014. 
+Sieff, Martin. “Kim Jong-un purges more officials, cracks down on soap operas.” APD Forum. 7 November 2014. 
+STRATFOR. “China’s Response to the Yeonpyeong Barrage.” 30 November 2010. 
+STRATFOR. “Deciphering North Korea’s Provocations.” 24 November 2010. 
+STRATFOR. “South Korea’s Tougher Approach to North Korean Provocations.” 29 November 2010. 
+Sungwon, Baik. “Exclusive: North Korea Denies Involvement in Cyber-attack on Sony Pictures.” Voice of America (VOA). 4 
+December 2014. 
+United States Army, Eighth United States Army (Rear), “Technical Memorandum ORO-T-64 (AFSE), UN Partisan Warfare in 
+Korea, 1951-9854 (U), 19 September 1956. 
+United States Department of State (DOS). “Chiefs of State and Cabinet Members of Foreign Governments: Korea, North.” 25 
+September 2014. 
+US DOS. “Human Rights.” [North Korea]. Undated. 
+US Marine Corps Intelligence Activity, “North Korea Country Handbook,” May 1997. 
+Voice of America (VOA). “North Korea Appears Capable of Jamming GPS Receivers.” 6 October 2010. 
+Diagram Credits 
+Figure 1. North Korean military installations and runways. Numbers correspond with the map numbers under Section 4, Military 
+Organizations, below. Map from CIA, modified by TRISA, 17 June 2015.
+
+===== [NK-TTR p.47] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+46 UNCLASSIFIED 
+ 
+Figure 2. Building blocks of KPA tactical doctrine. Adapted from COL James M. Minnich from his book, The North Korean 
+People’s Army: Origins and Current Tactics, 2005, p 66. Modified by TRADOC G-2 ACE Threats, 17 June 2015. 
+Figure 3. KPA Division encirclement movement (dispersed attack) of an enemy brigade defensive position. Adapted from COL 
+James M. Minnich from his book, The North Korean People’s Army: Origins and Current Tactics, 2005, pp 86-87. Modified 
+by TRADOC G-2 ACE Threats, 17 June 2015. 
+Figure 4. KPA Thrust Attack (Attack to Gain Freedom of Movement) of an enemy strop point). Adapted from COL James M. 
+Minnich from his book, The North Korean People’s Army: Origins and Current Tactics 2005, pp 82-83. Modified by TRADOC 
+G-2 ACE Threats, 17 June 2015. 
+Figure 5. KPA Anti-Tank Defensive System (Maneuver Defense). Adapted from COL James M. Minnich from his book, The North 
+Korean People’s Army: Origins and Current Tactics, 2005, pp 93-99. Modified by TRADOC G-2 ACE Threats, 17 June 2015. 
+Figure 6. KPA Battalion Anti-Tank Defense Position (Area Defense). Adapted from COL James M. Minnich from his book, The 
+North Korean People’s Army: Origins and Current Tactics, 2005, pp 96-97. Modified by TRADOC G-2 ACE Threats, 17 June 
+2015. 
+ 
+Endnotes 
+ 
+1 Office of the Secretary of Defense, “Military and Security Developments Involving the Democratic People’s Republic of Korea,” 
+Annual Report to Congress, p 1, 2013. 
+2 Voice of America (VOA), “North Korea Clarifies Political Role of Kim Jong Un’s Sister,” 26 November 2014; Scott Smith, “Kim 
+Jong Un’s little sister named to top leadership post in North Korea,” United Press International (UPI), 28 November 2014; 
+North Korea Leadership Watch, “Kim Yo Jong,” 10 March 2014; BBC, “Timeline: North Korean attacks,” 1 April 2013; Troy 
+P. Krause, “Countering North Korean Special Purpose Forces,” pp 3-4, Air Command and Staff College, Air University, 
+Maxwell Air Force Base AL, April 1999; KJ Won and Hilary Whiteman, “North Korea publicly executes defense chief, South 
+Korean spy agency says,” CNN, 13 May 2015. 
+3 North Korea Leadership Watch, “Kim Jong Un,” Undated; BBC, “Profile: Kim Jong-un,” 14 October 2014. 
+4 Steve Herman, “Secret Manual Gives Glimpse of North Korean Military Tactics,” VOA, 18 September 2010; STRATFOR, 
+“Dispatch: Korea’s Refocusing Policy Postures,” 18 November 2010; Charles Scanlon, “North Korea: Past lessons will affect 
+the next move,” 4 April 2013. 
+5 Vincent R. Stewart, “Statement for the Record: Worldwide Threat Assessment,” Defense Intelligence Agency Director to the 
+Armed Services Committee, United States House of Representatives, 3 February 2015; Office of the Secretary of Defense, 
+“Military and Security Developments Involving the Democratic People’s Republic of Korea,” Annual Report to Congress, p 
+6, 2013; Jane’s Sentinel Security Assessment, “Korea, North > Army,” 1 September 2014; Associated Press (AP), 
+“Chronology of North Korea’s missile program,” The Las Vegas Sun, 15 March 2012; NewsmaxWorld, “SKorea: NKorea Can 
+Launch Nuclear-Tipped Missiles,” 3 September 2013; Homer Hodge, “North Korea’s Military Strategy,” Parameters, pp 68-
+81, Spring 2003, Nautilus DPRK Briefing Book; James M. Minnich, The North Korean People’s Army: Origins and Current 
+Tactics” Naval Institute Press, 2005, pp 68-69. 
+6 Office of the Secretary of Defense (OSD), “Military and Security Developments Involving the Democratic People’s Republic of 
+Korea,” Annual Report to Congress, pp 6-7, 2013; Jane’s Sentinel Security Assessment, “North Korea – Strategic Weapons 
+Systems,” 23 July 2014. 
+7 Frank L. Goldstein and Frank E. Emmett, “A Psychological Perspective on the People within the Democratic People’s Republic 
+of Korea (DPRK),” 18 April 2004. 
+8 Jane’s Sentinel Security Assessment, “North Korea – Internal Affairs,” 28 August 2014; Julian Ryall, “Kim Jong-un’s aunt died of 
+stroke during ‘heated argument on phone with leader,” The Telegraph, 1 December 2014; Chris Irvine, “Rare images show 
+Kim Jong-un’s uncle being dragged away,” The Telegraph, 9 December 2013; Christolf Lehmann, “North Korea’s Execution 
+of Jang Song Taek, Peace in the Korean Peninsula and National Sovereignty,” NSBC International, 13 December 2013; 
+North Korea Leadership Watch, “Jang Song Taek Dies By Execution,” 13 December 2013; Choe Sang Hun and David E. 
+Sanger, “Korea Execution Is Tied to Clash Over Businesses,” The New York Times, 23 December 2013; North Korea 
+Leadership Watch, “Jang Song Taek,” 28 January 2011; Benjamin Kang Lim, “Exclusive: North Korea’s military to share 
+power with Kim’s heir,” Reuters, 21 December 2011; BBC, “What is known about North Korea’s brutal purge?,” 13
+
+===== [NK-TTR p.48] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+47 UNCLASSIFIED 
+ 
+ 
+December 2013; BBC, “What does purge say about North Korea’s stability?,” 12 December 2013; BBC, “Profile: Chang 
+Song-thaek,” 12 December 2013. 
+9 Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014; Jane’s Sentinel Security Assessment, “Korea, 
+North > Army,” 1 September 2014; Jane’s Sentinel Security Assessment, “Korea, North > Air Force,” 1 September 2014; 
+Jane’s Sentinel Security Assessment, “Korea, North > Navy,” 1 September 2014; Central Intelligence Agency, “Chiefs of 
+State and Cabinet Members of Foreign Governments: Korea, North – NDE,” 25 September 2014; Jane’s Sentinel Security 
+Assessment, “North Korea – Internal Affairs,” 28 August 2014; Victor Cha, “North Korea’s Saturday Surprise at the Asian 
+Games,” Center for Strategic and International Studies (CSIS), 6 October 2014; Dana Ford, “North Korea says leader has 
+reappeared,” CNN, 15 October 2014; Choe Sang Hun, “North Korea Chief Walks Minus Cane,” The New York Times, 5 
+November 2014; Hyung Jin Kim and Foster Klug, “Top North Korea Officials Make Rare Visit to South Korea,” AP via 
+Huffington Post, 6 October 2014; Michael Madden, “Kim Jong Un’s Pyongyang Shuffle, 38 North, 5 April 2013; Martin Sieff, 
+“Hardliner Hwang Pyong So is North Korea’s second in command,” APD Forum, 28 May 2014; James Pearson and Jack Kim, 
+“North Korea Official Hwang Pyong So Rises Ranks Amid Speculation Over Kim,” The World Post, 14 October 2014; Hot Air, 
+“O Kuk-ryol: The Power Behind the Throne,” 3 June 2009; Elites et economie de la Coree du Nord, “O Kuk Ryol: The Old 
+Guard Never Dies,” 11 April 2013; North Korea Leadership Watch, “VMAR Ri Yong Mu,” Undated; North Korea Leadership 
+Watch, “Gen. Choe Pu Il,” 27 September 2013; North Korea Leadership Watch, “Gen. Hyon Yong Chol,” 25 June 2014; AP, 
+“Hyong Yong Chol Named North Korea’s New Military Chief,” The World Post, 16 July 2012; Brian Kim, “Hyon Yong Chol,” 
+CSIS, Undated; Fortuna’s Corner, “The New Face in the North Korean Regime,” 11 April 2014; North Korea Leadership 
+Watch, “Pak To Chun,” 14 August 2013; North Korea Leadership Watch, “Gen. Kim Won Hong,” 12 April 2012; North Korea 
+Leadership Watch, “Ri Yong Mu,” Undated; The Chosunilbo, “N.Korean Military in Crisis,” 18 July 2012. 
+10 Vincent R. Stewart, “Statement for the Record: Worldwide Threat Assessment,” Defense Intelligence Agency Director to the 
+Armed Services Committee, United States House of Representatives, 3 February 2015; Hewlett-Packard Development 
+Company, “Profiling an enigma: The mystery of North Korea’s cyber threat landscape,” HP Security Briefing, Episode 16, 
+August 2014, Page 3-4; United States Central Intelligence Agency (CIA) The World Factbook. “North Korea.” 20 June 2014; 
+Jane’s Sentinel Security Assessment, “North Korea – External Affairs,” 28 August 2014. 
+11 Central Intelligence Agency, “Chiefs of State and Cabinet Members of Foreign Governments: Korea, North – NDE,” 25 
+September 2014; Jane’s Sentinel Security Assessment, “Korea, North > External Affairs,” 28 August 2014. 
+12 Jane’s Sentinel Security Assessment, “Korea, North > Security,” 28 August 2014; Jane’s Sentinel Security Assessment, “Korea, 
+North > External Affairs,” 28 August 2014; Jane’s Sentinel Security Assessment, “North Korea – Strategic Weapons 
+Systems,” 23 July 2014: Foster Klug, “A Look at North Korea’s Global Weapons Business,” AP via The Irrawaddy, 18 July 
+2013; Tim Johnson, “Panama: Cuban weapons aboard North Korean ship part of ‘major deal’,” The Christian Science 
+Monitor, 11 October 2013; AFP, “N. Korea shipped missile parts to Syria: media,” 14 Google News, November 2012; Global 
+Security, “North Korea Selling Missiles in Asia, Middle East: U.N. Report,” 17 May 2011. 
+13 US Library of Congress Federal Research Division, “Area Handbook Series: North Korea—A Country Study,”2008, pp 247, 252-
+253; Jane’s Sentinel Security Assessment, “Korea, North > Defence Budget,” 1 July 2014; Jane’s Sentinel Security 
+Assessment, “Korea, North > Armed Forces,” 2 July 2014; Military Periscope, “Nations/Alliances/Geographic Areas: Asia – 
+North Korea: Overview,” 1 September 2014. 
+14 US Library of Congress Federal Research Division, “Area Handbook Series: North Korea—A Country Study,”2008, p 247; 
+Vincent R. Stewart, “Statement for the Record: Worldwide Threat Assessment,” Defense Intelligence Agency Director to 
+the Armed Services Committee, United States House of Representatives, 3 February 2015; Jane’s Sentinel Security 
+Assessment, “Korea, North > Security,” 28 August 2014; Defense Intelligence Agency (DIA), “Annual Threat Assessment,” 
+[North Korea], 11 February 2014; Association of the United States Army (AUSA), “The U.S. Army in Korea,” August 2014; 
+Homer Hodge, “North Korea’s Military Strategy,” Parameters, pp 68-81, Spring 2003, Nautilus DPRK Briefing Book. 
+15 Military Periscope, “Nations/Alliances/Geographic Regions: Asia – North Korea: Army,” September 2014; Jane’s Sentinel 
+Security Assessment, “Strategic Weapons Systems,” 23 July 2014. 
+16 Military Periscope, “Nations/Alliances/Geographic Regions: Asia – North Korea: Army,” September 2014; Jane’s Sentinel 
+Security Assessment, “Strategic Weapons Systems,” 23 July 2014. 
+17 US Library of Congress Federal Research Division, “Area Handbook Series: North Korea—A Country Study,”2008, pp 249-252; 
+Military Periscope, “Nations/Alliances/Geographic Regions: Asia – North Korea: Army,” 1 September 2014; Jane’s Sentinel 
+Security Assessment, “Korea, North > Army,” 1 September 2014; Jane’s Sentinel Security Assessment, “Korea, North > 
+Army,” 1 September 2014; The Chonsunilbo, “N Korean Elite Sniper Defects,” 16 November 2011; Troy P. Krause,
+
+===== [NK-TTR p.49] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+48 UNCLASSIFIED 
+ 
+ 
+“Countering North Korean Special Purpose Forces,” pp 12-18, Air Command and Staff College, Air University, Maxwell Air 
+Force Base AL, April 1999. 
+18 Military Periscope, “Nations/Alliances/Geographic Regions: Asia – North Korea: Army,” 1 September 2014; Jane’s Sentinel 
+Security Assessment, “Korea, North > Army,” 1 September 2014; Jane’s Sentinel Security Assessment, “Korea, North > 
+Army,” 1 September 2014. 
+19 US Library of Congress Federal Research Division, “Area Handbook Series: North Korea—A Country Study,”2008, pp 254-257; 
+Jane’s Sentinel Security Assessment, “Korea, North > Security and Foreign Forces,” 28 August 2014; Jane’s Sentinel Security 
+Assessment, “Korea, North > Army,” 1 September 2014. 
+20 Military Periscope, “Nations/Alliances/Geographic Regions: Asia – North Korea: Air Force,” September 2014; Jane’s Sentinel 
+Security Assessment, “Korea, North > Air Force,” 1 September 2014; Jane’s World Air Forces, “North Korea – Air Force,” 9 
+April 2014. 
+21 Military Periscope, “Nations/Alliances/Geographic Regions: Asia – North Korea: Air Force,” September 2014; Jane’s Sentinel 
+Security Assessment, “Korea, North > Air Force,” 1 September 2014. 
+22 Jane’s Sentinel Security Assessment, “Korea, North > Air Force,” 1 September 2014; Jane’s World Air Forces, “North Korea – 
+Air Force,” 9 April 2014; Jane’s World Air Forces, “North Korea – Air Force,” 9 April 2014. 
+23 Military Periscope, “Nations/Alliances/Geographic Regions: Asia – North Korea: Navy,” September 2014; Jane’s Sentinel 
+Security Assessment, “Korea, North > Navy,” 1 September 2014; David Axe, “North Korea Preps Hovercraft Assault Force,” 
+Danger Room, 3 February 2011; The Inquisitr, “Two North Korean Submarines Allegedly Missing,” 16 April 2013. 
+24 Vincent R. Stewart, “Statement for the Record: Worldwide Threat Assessment,” Defense Intelligence Agency Director to the 
+Armed Services Committee, United States House of Representatives, 3 February 2015; Military Periscope, 
+“Nations/Alliances/Geographic Regions: Asia – North Korea: Navy,” September 2014; Jane’s Sentinel Security Assessment, 
+“Korea, North > Navy,” 1 September 2014: The Washington Free Beacon, “U.S. Commander in Korea Leads Secret Strategy 
+Session,” 26 January 2015; Raf Sanchez, “Here’s What We Know About What North Korea Can Hit,” The Telegraph, 30 
+March 2013; BBC, “North Korea threats: Missile defences in the region,” 5 April 2013; BBC, “How potent are North Korea’s 
+threats,” 2 April 2013. 
+25 Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014; Military Periscope, 
+“Nations/Alliances/Geographic Regions: Asia – North Korea: Navy,” September 2014; Jane’s Sentinel Security Assessment, 
+“Korea, North > Navy,” 1 September 2014. 
+26 Frank L. Goldstein and Frank E. Emmett, “A Psychological Perspective on the People within the Democratic People’s Republic 
+of Korea (DPRK),” 18 April 2004; Association of the United States Army (AUSA), “The U.S. Army in Korea,” August 2014. 
+27 Paul Szoldra and Geoffrey Ingersoll, “North Korea’s Fighter Fleet is Full of Decrepit Russian MiG 21s,” Business Insider, 2 April 
+2013; Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014; Jane’s Sentinel Security 
+Assessment, “Korea, North > Army,” 1 September 2014. 
+28 Vincent R. Stewart, “Statement for the Record: Worldwide Threat Assessment,” Defense Intelligence Agency Director to the 
+Armed Services Committee, United States House of Representatives, 3 February 2015; US Library of Congress Federal 
+Research Division, “Area Handbook Series: North Korea—A Country Study,”2008, p 247; Association of the United States 
+Army (AUSA), “The U.S. Army in Korea,” August 2014; BBC, “North Korea’s missile programme,” 17 June 2014. 
+29 Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014; Jane’s Sentinel Security Assessment, 
+“Korea, North > Army,” 1 September 2014; Steve Herman, “Secret Manual Gives Glimpse of North Korean Military Tactics,” 
+VOA, 18 September 2010. 
+30 Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014; Jane’s Sentinel Security Assessment, 
+“Korea, North > Navy,” 1 September 2014; Jane’s Sentinel Security Assessment, “Korea, North > Air Force,” 1 September 
+2014; Steve Herman, “Secret Manual Gives Glimpse of North Korean Military Tactics,” VOA, 18 September 2010; James M. 
+Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth KS, 
+PP 5-7. 
+31 James M. Minnich, The North Korean People’s Army: Origins and Current Tactics, Naval Institute Press, 2005, pp 73-74; James 
+M. Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth 
+KS, pp 10. 
+32 James M. Minnich, The North Korean People’s Army: Origins and Current Tactics, Naval Institute Press, 2005, pp 68-69. 
+33 Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014; Jane’s Sentinel Security Assessment, “North 
+Korea – Strategic Weapons Systems,” 23 July 2014; Association of the United States Army (AUSA), “The U.S. Army in
+
+===== [NK-TTR p.50] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+49 UNCLASSIFIED 
+ 
+ 
+Korea,” August 2014; James M. Minnich, The North Korean People’s Army: Origins and Current Tactics, Naval Institute 
+Press, 2005, pp 68-69. 
+34 Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014; Jane’s Sentinel Security Assessment, 
+“Korea, North > Army,” 1 September 2014; Troy P. Krause, “Countering North Korean Special Purpose Forces,” p 1, Air 
+Command and Staff College, Air University, Maxwell Air Force Base AL, April 1999. 
+35 James M. Minnich, The North Korean People’s Army: Origins and Current Tactics, Naval Institute Press, 2005, p 75; James M. 
+Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth KS, 
+pp 10. 
+36 James M. Minnich, The North Korean People’s Army: Origins and Current Tactics, Naval Institute Press, 2005, p 75; James M. 
+Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth KS, 
+PP 10. 
+37 James M. Minnich, The North Korean People’s Army: Origins and Current Tactics, Naval Institute Press, 2005, p 76; James M. 
+Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth KS, 
+PP 10. 
+38 James M. Minnich, The North Korean People’s Army: Origins and Current Tactics, Naval Institute Press, 2005, pp 75-76; James 
+M. Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth 
+KS, PP 10. 
+39 Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014; Jane’s Sentinel Security Assessment, 
+“Korea, North > Navy,” 1 September 2014; Jane’s Sentinel Security Assessment, “North Korea – Strategic Weapons 
+Systems,” 23 July 2014; James R. Holmes, “Anti-Access on the Korean Peninsula,” The Diplomat, 30 October 2012. 
+40 Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014; Jane’s Sentinel Security Assessment, 
+“Korea, North > Navy,” 1 September 2014; Jane’s Sentinel Security Assessment, “Korea, North > Army,” 1 September 2014; 
+Steve Herman, “Secret Manual Gives Glimpse of North Korean Military Tactics,” VOA, 18 September 2010. 
+41 Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014; Jane’s Sentinel Security Assessment, 
+“Korea, North > Navy,” 1 September 2014; Jane’s Sentinel Security Assessment, “Korea, North > Army,” 1 September 2014; 
+Steve Herman, “Secret Manual Gives Glimpse of North Korean Military Tactics,” VOA, 18 September 2010; James M. 
+Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth KS, 
+PP 9-11. 
+42 James M. Minnich, The North Korean People’s Army: Origins and Current Tactics” Naval Institute Press, 2005, pp 79-87; 
+James M. Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort 
+Leavenworth KS, PP 9-15; Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014; Jane’s Sentinel 
+Security Assessment, “Korea, North > Navy,” 1 September 2014; Jane’s Sentinel Security Assessment, “Korea, North > 
+Army,” 1 September 2014; Steve Herman, “Secret Manual Gives Glimpse of North Korean Military Tactics,” VOA, 18 
+September 2010. 
+43 James M. Minnich, The North Korean People’s Army: Origins and Current Tactics, Naval Institute Press, 2005, pp 80-82; James 
+M. Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth 
+KS, PP 11-12. 
+44 James M. Minnich, The North Korean People’s Army: Origins and Current Tactics, Naval Institute Press, 2005, pp 82-83; James 
+M. Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth 
+KS, PP 12-13. 
+45 James M. Minnich, The North Korean People’s Army: Origins and Current Tactics, Naval Institute Press, 2005, pp 83-84; James 
+M. Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth 
+KS, p 13. 
+46 James M. Minnich, The North Korean People’s Army: Origins and Current Tactics, Naval Institute Press, 2005, p 84; James M. 
+Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth KS, 
+pp 13-14. 
+47 James M. Minnich, The North Korean People’s Army: Origins and Current Tactics, Naval Institute Press, 2005, pp 84-85; James 
+M. Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth 
+KS, p 14. 
+48 James M. Minnich, The North Korean People’s Army: Origins and Current Tactics, Naval Institute Press, 2005, pp 85-86; James 
+M. Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth 
+KS, pp 14-15.
+
+===== [NK-TTR p.51] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+50 UNCLASSIFIED 
+ 
+ 
+49 James M. Minnich, The North Korean People’s Army: Origins and Current Tactics, Naval Institute Press, 2005, pp 86-87; James 
+M. Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth 
+KS, p 15. 
+50 James M. Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort 
+Leavenworth KS, PP 10; Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014; Jane’s Sentinel 
+Security Assessment, “Korea, North > Navy,” 1 September 2014; Jane’s Sentinel Security Assessment, “Korea, North > 
+Army,” 1 September 2014; Steve Herman, “Secret Manual Gives Glimpse of North Korean Military Tactics,” VOA, 18 
+September 2010; James M. Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff 
+College, Fort Leavenworth KS, PP 9-11. 
+51 Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014; Jane’s Sentinel Security Assessment, 
+“Korea, North > Navy,” 1 September 2014; Jane’s Sentinel Security Assessment, “Korea, North > Army,” 1 September 2014; 
+Steve Herman, “Secret Manual Gives Glimpse of North Korean Military Tactics,” VOA, 18 September 2010; James M. 
+Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth KS, 
+pp 9-11. 
+52 Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014; Jane’s Sentinel Security Assessment, 
+“Korea, North > Navy,” 1 September 2014; Jane’s Sentinel Security Assessment, “Korea, North > Army,” 1 September 2014; 
+Steve Herman, “Secret Manual Gives Glimpse of North Korean Military Tactics,” VOA, 18 September 2010; James M. 
+Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth KS, 
+pp 9-11. 
+53 Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014; Jane’s Sentinel Security Assessment, 
+“Korea, North > Navy,” 1 September 2014; Jane’s Sentinel Security Assessment, “Korea, North > Army,” 1 September 2014; 
+Steve Herman, “Secret Manual Gives Glimpse of North Korean Military Tactics,” VOA, 18 September 2010; James M. 
+Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth KS, 
+pp 9-11. 
+54 Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014; Jane’s Sentinel Security Assessment, 
+“Korea, North > Navy,” 1 September 2014; Jane’s Sentinel Security Assessment, “Korea, North > Army,” 1 September 2014; 
+Steve Herman, “Secret Manual Gives Glimpse of North Korean Military Tactics,” VOA, 18 September 2010; James M. 
+Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth KS, 
+pp 9-11; BBC, “North Korea: New camouflage for biplane fleet,” 7 April 2015. 
+55 Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014; Jane’s Sentinel Security Assessment, 
+“Korea, North > Navy,” 1 September 2014; Jane’s Sentinel Security Assessment, “Korea, North > Army,” 1 September 2014; 
+Steve Herman, “Secret Manual Gives Glimpse of North Korean Military Tactics,” VOA, 18 September 2010; James M. 
+Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth KS, 
+pp 9-11 & 23. 
+56 Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014; Jane’s Sentinel Security Assessment, 
+“Korea, North > Navy,” 1 September 2014; Jane’s Sentinel Security Assessment, “Korea, North > Army,” 1 September 2014; 
+Steve Herman, “Secret Manual Gives Glimpse of North Korean Military Tactics,” VOA, 18 September 2010; James M. 
+Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth KS, 
+pp 9-11. 
+57 Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014; Jane’s Sentinel Security Assessment, 
+“Korea, North > Navy,” 1 September 2014; Jane’s Sentinel Security Assessment, “Korea, North > Army,” 1 September 2014; 
+Steve Herman, “Secret Manual Gives Glimpse of North Korean Military Tactics,” VOA, 18 September 2010; James M. 
+Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth KS, 
+pp 9-11. 
+58 Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014; Jane’s Sentinel Security Assessment, 
+“Korea, North > Navy,” 1 September 2014; Jane’s Sentinel Security Assessment, “Korea, North > Army,” 1 September 2014; 
+Steve Herman, “Secret Manual Gives Glimpse of North Korean Military Tactics,” VOA, 18 September 2010; James M. 
+Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth KS, 
+pp 9-11; James M. Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort 
+Leavenworth KS, PP 9-11. 
+59 Department of the Army, “TC 7-100.2, Opposing Force Tactics,” Approved Final Draft, August 2011, pp 3-13 to 3-16; James M. 
+Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth KS,
+
+===== [NK-TTR p.52] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+51 UNCLASSIFIED 
+ 
+ 
+pp 11-15; James M. Minnich, The North Korean People’s Army: Origins and Current Tactics, Naval Institute Press, 2005, pp 
+86-87. 
+60 Department of the Army, “TC 7-100.2, Opposing Force Tactics,” Approved Final Draft, August 2011, pp 3-13 to 3-16; James M. 
+Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth KS, 
+pp 13-15; 
+61 Department of the Army, “TC 7-100.2, Opposing Force Tactics,” Approved Final Draft, August 2011, pp 3-13 to 3-16. 
+62 Department of the Army, “TC 7-100.2, Opposing Force Tactics,” Approved Final Draft, August 2011, pp 3-13 to 3-16; James M. 
+Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth KS, 
+p 15. 
+63 Department of the Army, “TC 7-100.2, Opposing Force Tactics,” Approved Final Draft, August 2011, pp 3-13 to 3-16; James M. 
+Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth KS, 
+pp 5-7, 11-15; Homer Hodge, “North Korea’s Military Strategy,” Parameters, pp 72-73, Spring 2003, Nautilus DPRK Briefing 
+Book. 
+64 James M. Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort 
+Leavenworth KS, pp 12-13; Department of the Army, “TC 7-100.2, Opposing Force Tactics,” Approved Final Draft, August 
+2011, pp 3-9 to 3-13 . 
+65 James M. Minnich, The North Korean People’s Army: Origins and Current Tactics, Naval Institute Press, 2005, pp 82-83; James 
+M. Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth 
+KS, pp 12-13; Department of the Army, “TC 7-100.2, Opposing Force Tactics,” Approved Final Draft, August 2011, pp 3-9 to 
+3-13 
+66 James M. Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort 
+Leavenworth KS, pp 12-13, 29; Department of the Army, “TC 7-100.2, Opposing Force Tactics,” Approved Final Draft, 
+August 2011, pp 3-9 to 3-13. 
+67 James M. Minnich, The North Korean People’s Army: Origins and Current Tactics, Naval Institute Press, 2005, pp 93-99; James 
+M. Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth 
+KS, p 19; Department of the Army, “TC 7-100.2, Opposing Force Tactics,” Approved Final Draft, August 2011, pp 4-10 to 4-
+14. 
+68 James M. Minnich, The North Korean People’s Army: Origins and Current Tactics, Naval Institute Press, 2005, pp 93-94; James 
+M. Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth 
+KS, p 19-20. 
+69 James M. Minnich, The North Korean People’s Army: Origins and Current Tactics, Naval Institute Press, 2005, pp 94-96; James 
+M. Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth 
+KS, p 19-20. 
+70 James M. Minnich, The North Korean People’s Army: Origins and Current Tactics, Naval Institute Press, 2005, p 96; James M. 
+Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth KS, 
+p 19, 20-21. 
+71 James M. Minnich, The North Korean People’s Army: Origins and Current Tactics, Naval Institute Press, 2005, pp 96-97; 
+James M. Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort 
+Leavenworth KS, p 19, 22. 
+72 James M. Minnich, The North Korean People’s Army: Origins and Current Tactics, Naval Institute Press, 2005, pp 97-98; James 
+M. Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth 
+KS, p 19, 22-23. 
+73 James M. Minnich, The North Korean People’s Army: Origins and Current Tactics, Naval Institute Press, 2005, p 99; James M. 
+Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth KS, 
+p 19, 23. 
+74 James M. Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort 
+Leavenworth KS, p 19, 23. 
+75 James M. Minnich, The North Korean People’s Army: Origins and Current Tactics, Naval Institute Press, 2005, p 96; James M. 
+Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth KS, 
+pp 19, 21-23; Department of the Army, “TC 7-100.2, Opposing Force Tactics,” Approved Final Draft, August 2011, pp 4-14 
+to 4-18.
+
+===== [NK-TTR p.53] =====
+Threat Tactics Report: North Korea 
+ 
+ 
+52 UNCLASSIFIED 
+ 
+ 
+76 James M. Minnich, The North Korean People’s Army: Origins and Current Tactics, Naval Institute Press, 2005, p 96; James M. 
+Minnich, “North Korean Tactics,” September 2001, United States Army Command and Staff College, Fort Leavenworth KS, 
+pp 19, 21-23. 
+77 Military Factory, “Pokpung-ho (Storm Tiger) (M2002) Main Battle Tank (1992),” Military Factory, 27 January 2014; Jung Sung-
+Ki, “S. Korea Studies North’s New Battle Tank,” Defense News, 17 August 2010; David Isenberg, “North Korea rolls out new 
+tank,” Asia Times Online, 6 July 2002. 
+78 US Library of Congress Federal Research Division, “Area Handbook Series: North Korea—A Country Study,”2008, pp 247-249; 
+Military Periscope, “Nations/Alliances/Geographic Regions: Asia – North Korea: Army,” September 2014, September 2014. 
+79 US Library of Congress Federal Research Division, “Area Handbook Series: North Korea—A Country Study,”2008, pp 252-253; 
+Military Periscope, “Nations/Alliances/Geographic Regions: Asia – North Korea: Air Force,” September 2014; Periscope, 
+“Nations/Alliances/Geographic Regions: Asia – North Korea: Air Force,” September 2014; Jane’s Sentinel Security 
+Assessment, “Korea, North > Air Force,” 1 September 2014. 
+80 US Library of Congress Federal Research Division, “Area Handbook Series: North Korea—A Country Study,”2008, pp 253-254; 
+Periscope, “Nations/Alliances/Geographic Regions: Asia – North Korea: Navy,” September 2014 
+81 Periscope, “Nations/Alliances/Geographic Regions: Asia – North Korea: Air Force,” September 2014; Jane’s Sentinel Security 
+Assessment, “Korea, North > Air Force,” 1 September 2014. 
+82 Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014. 
+83 Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014. 
+84 Vincent R. Stewart, “Statement for the Record: Worldwide Threat Assessment,” Defense Intelligence Agency Director to the 
+Armed Services Committee, United States House of Representatives, 3 February 2015; Jane’s Sentinel Security Assessment, 
+“Korea, North > Armed Forces,” 2 July 2014; Jane’s Sentinel Security Assessment, “Korea, North > Army,” 1 September 
+2014; Jane’s Sentinel Security Assessment, “North Korea – Strategic Weapons Systems,” 23 July 2014. 
+85 Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014; James M. Minnich, “North Korean Tactics,” 
+September 2001, United States Army Command and Staff College, Fort Leavenworth KS, pp 28-30. 
+86 Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014. 
+87 Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014; Jane’s Sentinel Security Assessment, 
+“Korea, North > Navy,” 1 September 2014. 
+88 Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014; Jane’s Sentinel Security Assessment, 
+“Korea, North > Security,” 28 August 2014; Jason Miks, “North Korea Gets Military Trucks,” The Diplomat, 24 August 2011. 
+89 Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014. 
+90 Jane’s Sentinel Security Assessment, “Korea, North > Armed Forces,” 2 July 2014; Jane’s Sentinel Security Assessment, 
+“Korea, North > Air Force,” 1 September 2014; Jane’s Sentinel Security Assessment, “Korea, North > Army,” 1 September 
+2014; Jane’s World Air Forces, “North Korea – Air Force,” 9 April 2014. 
+91 Jane’s Sentinel Security Assessment, “Korea, North > Air Force,” 1 September 2014; Jane’s World Air Forces, “North Korea – 
+Air Force,” 9 April 2014; Military Periscope, “Nations/Alliances/Geographic Regions: Asia – North Korea: Army,” September 
+2014. 
+92 BBC, “Timeline: North Korean attacks,” 1 April 2013. 
+93 Association of the United States Army (AUSA), “The U.S. Army in Korea,” August 2014; Bill Gertz, “North Korea Flight Tests 
+New Submarine-Launched Ballistic Missile,” Free Beacon, 18 February 2015.

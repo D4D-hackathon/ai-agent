@@ -1,0 +1,20 @@
+{
+  "manuals": [
+    {
+      "id": "FM3-90",
+      "doctrine": "blue",
+      "title": "FM 3-90 Tactics",
+      "file_name": "ARN38160-FM_3-90-000-WEB-1.pdf",
+      "pages": 480,
+      "index": "FM3-90.pages.jsonl"
+    },
+    {
+      "id": "NK-TTR",
+      "doctrine": "red",
+      "title": "TRADOC Threat Tactics Report: North Korea",
+      "file_name": "USArmy-NorthKoreaTactics.pdf",
+      "pages": 53,
+      "index": "NK-TTR.pages.jsonl"
+    }
+  ]
+}

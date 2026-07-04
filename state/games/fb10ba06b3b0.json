@@ -1,0 +1,55 @@
+{
+  "id": "fb10ba06b3b0",
+  "turn": 1,
+  "objective": "철원 요충지 방어 - 적 남하 저지",
+  "terrain": "ridge",
+  "weather": "clear",
+  "chokepoint": false,
+  "mode": "blue_defend",
+  "blue": {
+    "side": "blue",
+    "tanks": 13,
+    "troops": 93,
+    "lat": 38.16,
+    "lon": 127.24,
+    "posture": "defend"
+  },
+  "red": {
+    "side": "red",
+    "tanks": 6,
+    "troops": 50,
+    "lat": 38.3,
+    "lon": 127.26,
+    "posture": "attack"
+  },
+  "distance_km": 15.665,
+  "approach_bearing_deg": 186.4,
+  "terrain_detail": {
+    "terrain": "ridge",
+    "source": "user",
+    "mcp_inferred": "forest",
+    "agreement": false,
+    "chokepoint": false,
+    "chokepoint_known": true,
+    "relief_m": 29.0,
+    "slope_deg": 4.1,
+    "urban_score": 0.0,
+    "forest_score": 0.55,
+    "drivers": [
+      "relief 29.0m / slope ~4.1° over 400m ring",
+      "urban: 0 nearby POIs (density +0.00)",
+      "forest: natural geocode types ['natural_feature']",
+      "forest: 2 natural/park features nearby",
+      "chokepoint: defile flank rise -5m (approach-perpendicular)"
+    ],
+    "notes": [
+      "불일치: 사용자 지정 'ridge' vs MCP 추론 'forest'. 사용자 값 우선 사용. 위경도/지형 재확인 권장."
+    ],
+    "sources": [
+      "opentopodata",
+      "overpass"
+    ]
+  },
+  "status": "active",
+  "seed": 1578568153
+}
